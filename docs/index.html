@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Job Finder</title>
+<style>
+  :root {
+    --bg: #f6f7f9; --card: #ffffff; --text: #1b1f24; --muted: #667085;
+    --line: #e4e7ec; --accent: #2557d6; --new: #0f7b4b; --newbg: #e3f5ec;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #111418; --card: #1a1f26; --text: #e8ebef; --muted: #98a2b3;
+            --line: #2a313b; --accent: #7aa2ff; --new: #5fd6a0; --newbg: #17372a; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text);
+         font: 15px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  .wrap { max-width: 860px; margin: 0 auto; padding: 20px 16px 60px; }
+  header { display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 4px; }
+  h1 { font-size: 22px; margin: 0; }
+  .updated { color: var(--muted); font-size: 13px; }
+  .controls { display: grid; grid-template-columns: 1fr; gap: 8px; margin: 16px 0 6px; }
+  @media (min-width: 640px) { .controls { grid-template-columns: 2fr 1fr 1fr 1fr; } }
+  input, select { width: 100%; padding: 9px 10px; border: 1px solid var(--line); border-radius: 8px;
+                  background: var(--card); color: var(--text); font: inherit; }
+  label.chk { display: flex; align-items: center; gap: 6px; color: var(--muted); font-size: 14px; margin: 4px 0 12px; }
+  .count { color: var(--muted); font-size: 13px; margin-bottom: 10px; }
+  .job { background: var(--card); border: 1px solid var(--line); border-radius: 10px;
+         padding: 14px 16px; margin-bottom: 10px; }
+  .job a.title { color: var(--accent); font-weight: 600; font-size: 16px; text-decoration: none; }
+  .job a.title:hover { text-decoration: underline; }
+  .meta { color: var(--muted); font-size: 13px; margin-top: 2px; }
+  .desc { margin-top: 8px; font-size: 14px; }
+  .badge { display: inline-block; font-size: 11px; font-weight: 700; letter-spacing: .04em;
+           color: var(--new); background: var(--newbg); border-radius: 999px; padding: 1px 8px; margin-left: 8px;
+           vertical-align: 2px; }
+  .empty { text-align: center; color: var(--muted); padding: 40px 0; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Job Finder</h1>
+    <span class="updated" id="updated"></span>
+  </header>
+
+  <div class="controls">
+    <input id="q" type="search" placeholder="Search title, company, description…" autofocus>
+    <select id="type"><option value="">Any type</option></select>
+    <select id="source"><option value="">All sources</option></select>
+    <input id="loc" type="search" placeholder="Location contains…">
+  </div>
+  <label class="chk"><input type="checkbox" id="fresh"> Only show jobs first seen in the last 3 days</label>
+  <div class="count" id="count"></div>
+  <div id="list"></div>
+</div>
+
+<script>
+const $ = id => document.getElementById(id);
+let jobs = [];
+const DAY = 86400000;
+
+function ago(iso) {
+  if (!iso) return "";
+  const d = Math.floor((Date.now() - new Date(iso)) / DAY);
+  return d <= 0 ? "today" : d === 1 ? "yesterday" : d + " days ago";
+}
+
+function render() {
+  const q = $("q").value.toLowerCase().trim();
+  const type = $("type").value, source = $("source").value;
+  const loc = $("loc").value.toLowerCase().trim();
+  const fresh = $("fresh").checked;
+  const rows = jobs.filter(j =>
+    (!q || (j.title + " " + j.company + " " + j.desc).toLowerCase().includes(q)) &&
+    (!type || j.type === type) &&
+    (!source || j.source === source) &&
+    (!loc || (j.location || "").toLowerCase().includes(loc)) &&
+    (!fresh || Date.now() - new Date(j.first_seen) < 3 * DAY));
+
+  $("count").textContent = rows.length + " of " + jobs.length + " jobs";
+  const list = $("list");
+  list.replaceChildren();
+  if (!rows.length) {
+    const e = document.createElement("div");
+    e.className = "empty";
+    e.textContent = jobs.length ? "No jobs match these filters." : "No jobs yet. Run the workflow once to fill this in.";
+    list.appendChild(e);
+    return;
+  }
+  for (const j of rows.slice(0, 300)) {
+    const card = document.createElement("div"); card.className = "job";
+    const a = document.createElement("a");
+    a.className = "title"; a.href = j.url; a.target = "_blank"; a.rel = "noopener"; a.textContent = j.title;
+    card.appendChild(a);
+    if (Date.now() - new Date(j.first_seen) < 3 * DAY) {
+      const b = document.createElement("span"); b.className = "badge"; b.textContent = "NEW"; card.appendChild(b);
+    }
+    const m = document.createElement("div"); m.className = "meta";
+    m.textContent = [j.company, j.location, j.type, j.source, "found " + ago(j.first_seen)].filter(Boolean).join(" · ");
+    card.appendChild(m);
+    if (j.desc) {
+      const d = document.createElement("div"); d.className = "desc";
+      d.textContent = j.desc.length > 260 ? j.desc.slice(0, 260) + "…" : j.desc;
+      card.appendChild(d);
+    }
+    list.appendChild(card);
+  }
+}
+
+function fillSelect(sel, values) {
+  [...new Set(values.filter(Boolean))].sort().forEach(v => {
+    const o = document.createElement("option"); o.value = v; o.textContent = v; sel.appendChild(o);
+  });
+}
+
+fetch("jobs.json", { cache: "no-store" })
+  .then(r => r.json())
+  .then(data => {
+    jobs = data.jobs || [];
+    $("updated").textContent = data.updated ? "Updated " + new Date(data.updated).toLocaleString() : "";
+    fillSelect($("type"), jobs.map(j => j.type));
+    fillSelect($("source"), jobs.map(j => j.source));
+    render();
+  })
+  .catch(() => { $("count").textContent = "Could not load jobs.json"; });
+
+["q", "type", "source", "loc", "fresh"].forEach(id => $(id).addEventListener("input", render));
+</script>
+</body>
+</html>
