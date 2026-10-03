@@ -1,0 +1,66 @@
+name: Job finder
+
+on:
+  schedule:
+    - cron: "30 1,7,13 * * *"   # 07:00, 13:00, 19:00 IST (UTC+5:30)
+  workflow_dispatch:
+    inputs:
+      baseline:
+        description: "First run? Mark current jobs as seen so you don't get a huge email"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write   # commit jobs.db and docs/jobs.json
+  pages: write
+  id-token: write
+
+concurrency:
+  group: jobfinder
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Find jobs
+        env:
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          BASELINE: ${{ inputs.baseline }}
+        run: |
+          FLAGS=""
+          if [ "$BASELINE" = "true" ]; then FLAGS="--baseline"; fi
+          python jobfinder.py $FLAGS --export docs/jobs.json
+
+      - name: Save state
+        run: |
+          git config user.name "jobfinder-bot"
+          git config user.email "jobfinder-bot@users.noreply.github.com"
+          git add jobs.db docs/jobs.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update jobs"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - id: deploy
+        uses: actions/deploy-pages@v4
