@@ -11,6 +11,7 @@ import hashlib
 import html
 import json
 import os
+import re
 import smtplib
 import sqlite3
 import sys
@@ -39,6 +40,7 @@ class Job:
     job_type: str = ""        # full-time | internship | part-time | contract | ""
     description: str = ""
     posted: datetime | None = None
+    keyword_matched: bool = False   # True when the site's own search already matched our keywords
 
     @property
     def uid(self) -> str:
@@ -125,11 +127,11 @@ def fetch_rss(src):
                   e.get("location", ""), infer_type(e.get("title", ""), desc[:500]), desc, posted)
 
 
-def fetch_html(src):
-    """Generic scraper driven by CSS selectors in config.
+def _html_page(src, url):
+    """Scrape one page. Generic scraper driven by CSS selectors in config.
     Needs: url, item (selector for each job card), title, link.
     Optional: location, description (selectors relative to the card)."""
-    soup = BeautifulSoup(get(src["url"]).text, "html.parser")
+    soup = BeautifulSoup(get(url).text, "html.parser")
 
     def pick(card, sel, attr=None):
         if not sel:
@@ -149,8 +151,74 @@ def fetch_html(src):
                   pick(card, src.get("location")), infer_type(title, desc[:500]), desc)
 
 
+def fetch_html(src):
+    """Scrape a careers page; optionally walk several pages.
+    Paging options: page_param (e.g. startrow), page_size (e.g. 25), max_pages (default 1)."""
+    param, size, max_pages = src.get("page_param"), src.get("page_size", 25), src.get("max_pages", 1)
+    seen = set()
+    for page in range(max_pages if param else 1):
+        url = src["url"]
+        if param:
+            url += ("&" if "?" in url else "?") + f"{param}={page * size}"
+        fresh = 0
+        for job in _html_page(src, url):
+            if job.url not in seen:
+                seen.add(job.url)
+                fresh += 1
+                yield job
+        if not fresh:  # empty or repeated page: we've run past the end
+            break
+
+
+def parse_workday_posted(text):
+    s = (text or "").lower()
+    now = datetime.now(timezone.utc)
+    if "today" in s:
+        return now
+    if "yesterday" in s:
+        return now - timedelta(days=1)
+    m = re.search(r"(\d+)\+?\s*day", s)
+    return now - timedelta(days=int(m.group(1))) if m else None
+
+
+def fetch_workday(src):
+    """Workday careers sites (KLA and many large companies) via the JSON endpoint the site itself uses.
+    Needs: host (e.g. kla.wd1.myworkdayjobs.com), tenant (e.g. kla), site (e.g. Search).
+    Optional: searches (list of keywords, run server-side), max_pages (default 5, 20 jobs per page)."""
+    host, tenant, site = src["host"], src["tenant"], src["site"]
+    max_pages = src.get("max_pages", 5)
+    seen = set()
+    for q in src.get("searches") or [""]:
+        offset, total = 0, None
+        for _ in range(max_pages):
+            r = requests.post(f"https://{host}/wday/cxs/{tenant}/{site}/jobs",
+                              json={"appliedFacets": {}, "limit": 20, "offset": offset, "searchText": q},
+                              headers={**HEADERS, "Accept": "application/json"}, timeout=TIMEOUT)
+            r.raise_for_status()
+            data = r.json()
+            posts = data.get("jobPostings", [])
+            if not posts:
+                break
+            for p in posts:
+                path = p.get("externalPath")
+                if not path or path in seen:
+                    continue
+                seen.add(path)
+                title = p.get("title", "")
+                loc = p.get("locationsText", "")
+                if re.match(r"^\d+\s+locations?$", loc, re.I):  # "2 Locations": real place unknown
+                    loc = ""
+                yield Job(src["name"], title, f"https://{host}/{site}{path}", src.get("company", tenant),
+                          loc, infer_type(title), "", parse_workday_posted(p.get("postedOn")),
+                          keyword_matched=bool(q))
+            offset += 20
+            total = data.get("total") or total   # Workday only reports total on the first page
+            if total is not None and offset >= total:
+                break
+
+
 FETCHERS = {"greenhouse": fetch_greenhouse, "lever": fetch_lever, "ashby": fetch_ashby,
-            "rss": fetch_rss, "html": fetch_html}
+            "rss": fetch_rss, "html": fetch_html, "workday": fetch_workday}
 
 
 # ---------------------------------------------------------------- filtering
@@ -162,7 +230,7 @@ def matches(job: Job, f: dict) -> bool:
     if any(k.lower() in title for k in f.get("exclude_title_keywords", [])):
         return False
     inc = [k.lower() for k in f.get("include_keywords", [])]
-    if inc and not any(k in text for k in inc):
+    if inc and not job.keyword_matched and not any(k in text for k in inc):
         return False
     locs = [l.lower() for l in f.get("locations", [])]
     # jobs with unknown location are kept; the email shows it blank
