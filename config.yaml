@@ -7,7 +7,7 @@ email:
   smtp_port: 587
   username_env: SMTP_USER
   password_env: SMTP_PASS
-  enabled: true
+  enabled: false
   # On GitHub the repo is public, so leave this blank and set the EMAIL_TO secret instead.
   to: ""
   max_jobs_per_email: 50
