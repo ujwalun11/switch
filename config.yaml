@@ -1,0 +1,62 @@
+# ---- Email (use an app password, not your normal password) ----
+# Set credentials as environment variables:
+#   export SMTP_USER="you@gmail.com"
+#   export SMTP_PASS="your-16-char-app-password"
+email:
+  smtp_host: smtp.gmail.com
+  smtp_port: 587
+  username_env: SMTP_USER
+  password_env: SMTP_PASS
+  enabled: true
+  # On GitHub the repo is public, so leave this blank and set the EMAIL_TO secret instead.
+  to: ""
+  max_jobs_per_email: 50
+
+database: jobs.db
+
+# ---- Filters (a job must pass all of them) ----
+filters:
+  # at least one must appear in title or description (leave empty to allow all)
+  include_keywords: [python, backend, data engineer, machine learning, software engineer]
+  # skip jobs whose TITLE contains any of these
+  exclude_title_keywords: [director, principal, staff, manager]
+  # location must contain one of these (jobs with no listed location are kept)
+  locations: [chennai, bangalore, bengaluru, hyderabad, remote, india]
+  # full-time | internship | part-time | contract  (jobs of unknown type are kept)
+  job_types: [full-time, internship]
+  # ignore postings older than this, when the site gives a date
+  max_age_days: 14
+
+# ---- Sources ----
+# greenhouse: board = the slug in boards.greenhouse.io/<slug>
+# lever:      company = the slug in jobs.lever.co/<slug>
+# ashby:      board = the slug in jobs.ashbyhq.com/<slug>
+# rss:        any job feed URL
+# html:       any careers page, using CSS selectors
+sources:
+  - name: Stripe (Greenhouse)
+    type: greenhouse
+    board: stripe
+
+  - name: Palantir (Lever)
+    type: lever
+    company: palantir
+
+  - name: Ramp (Ashby)
+    type: ashby
+    board: ramp
+
+  - name: We Work Remotely - Programming
+    type: rss
+    url: https://weworkremotely.com/categories/remote-programming-jobs.rss
+
+  # Example of a generic HTML careers page; adjust selectors for your site
+  # (right-click a job card -> Inspect to find them).
+  # - name: Example Co careers
+  #   type: html
+  #   url: https://example.com/careers
+  #   item: ".job-card"
+  #   title: ".job-title"
+  #   link: "a"            # or "self" if the card itself is the <a>
+  #   location: ".job-location"
+  #   description: ".job-summary"
