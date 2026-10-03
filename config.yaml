@@ -17,7 +17,8 @@ database: jobs.db
 # ---- Filters (a job must pass all of them) ----
 filters:
   # at least one must appear in title or description (leave empty to allow all)
-  include_keywords: [python, backend, data engineer, machine learning, software engineer]
+  # Note: sites that show only a title (SAP) are matched on the title alone, so include title words too.
+  include_keywords: [python, backend, data engineer, machine learning, software engineer, developer, intern]
   # skip jobs whose TITLE contains any of these
   exclude_title_keywords: [director, principal, staff, manager]
   # location must contain one of these (jobs with no listed location are kept)
@@ -34,6 +35,29 @@ filters:
 # rss:        any job feed URL
 # html:       any careers page, using CSS selectors
 sources:
+  # KLA uses Workday: https://kla.wd1.myworkdayjobs.com/Search
+  # `searches` runs these keywords on KLA's own search, so descriptions are matched too.
+  - name: KLA (Workday)
+    type: workday
+    host: kla.wd1.myworkdayjobs.com
+    tenant: kla
+    site: Search
+    company: KLA
+    searches: [software, python, intern, "data engineer"]
+
+  # SAP uses SuccessFactors; this scrapes its India search results, 25 jobs per page.
+  - name: SAP India
+    type: html
+    company: SAP
+    url: "https://jobs.sap.com/search/?q=&locationsearch=India"
+    page_param: startrow
+    page_size: 25
+    max_pages: 4
+    item: "tr.data-row"
+    title: "a.jobTitle-link"
+    link: "a.jobTitle-link"
+    location: "span.jobLocation"
+
   - name: Stripe (Greenhouse)
     type: greenhouse
     board: stripe
