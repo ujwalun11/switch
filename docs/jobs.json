@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-05T07:20:23.205820+00:00",
+ "updated": "2026-10-05T16:16:07.625792+00:00",
  "jobs": [
+  {
+   "title": "PCB Manufacturing Applications Engineer (Frontline Software)",
+   "company": "KLA",
+   "location": "",
+   "type": "",
+   "source": "KLA (Workday)",
+   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Applications-Engineer_2640096",
+   "desc": "",
+   "posted": "2026-10-05T16:15:46.388459+00:00",
+   "first_seen": "2026-10-05T16:16:07.613574+00:00"
+  },
   {
    "title": "SDC Recruiter",
    "company": "stripe",
@@ -20,7 +31,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Specialist--Software-Technology_2639711-1",
    "desc": "",
-   "posted": "2026-09-29T07:20:07.628072+00:00",
+   "posted": "2026-09-29T16:15:44.051946+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -31,7 +42,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Associate-Software-Engineer_2639562",
    "desc": "",
-   "posted": "2026-09-29T07:20:07.628084+00:00",
+   "posted": "2026-09-29T16:15:44.051952+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -42,7 +53,18 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Software-Quality-Engineer_2641380-1",
    "desc": "",
-   "posted": "2026-09-23T07:20:08.245401+00:00",
+   "posted": "2026-09-23T16:15:44.806391+00:00",
+   "first_seen": "2026-10-03T02:54:45.879352+00:00"
+  },
+  {
+   "title": "Specialist, Technology - Software",
+   "company": "KLA",
+   "location": "Chennai, India",
+   "type": "",
+   "source": "KLA (Workday)",
+   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Specialist--Technology---Software_2641137",
+   "desc": "",
+   "posted": "2026-10-05T16:15:44.806396+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -53,7 +75,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Engr--Software-QA-2_2640389",
    "desc": "",
-   "posted": "2026-09-29T07:20:08.855073+00:00",
+   "posted": "2026-09-29T16:15:45.528824+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -64,7 +86,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Specialist--Software-Technology-PLC-Programming_2640068",
    "desc": "",
-   "posted": "2026-09-29T07:20:08.855158+00:00",
+   "posted": "2026-09-29T16:15:45.528867+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -75,7 +97,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Software-Quality-Engineer---Automation---AI_2641371",
    "desc": "",
-   "posted": "2026-10-01T07:20:09.527119+00:00",
+   "posted": "2026-10-01T16:15:46.388415+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -86,7 +108,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Lead-Analyst--Algorithm-Development-Engineering_2639853",
    "desc": "",
-   "posted": "2026-09-29T07:20:10.269925+00:00",
+   "posted": "2026-09-29T16:15:47.105914+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -97,7 +119,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Associate---Technical-Lead-PLC-Programming_2640061",
    "desc": "",
-   "posted": "2026-09-29T07:20:10.269970+00:00",
+   "posted": "2026-09-29T16:15:47.105948+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -108,7 +130,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Phoenix-AZ/Fleet-Engineer_2637290-1",
    "desc": "",
-   "posted": "2026-09-28T07:20:10.270019+00:00",
+   "posted": "2026-09-28T16:15:47.105976+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -119,7 +141,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Development-Engineer-Intern_2641521-1",
    "desc": "",
-   "posted": "2026-09-30T07:20:13.810389+00:00",
+   "posted": "2026-09-30T16:15:51.250287+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -130,7 +152,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Newport-United-Kingdom/RF---Plasma-Technologist_2640129",
    "desc": "",
-   "posted": "2026-09-23T07:20:14.418985+00:00",
+   "posted": "2026-09-23T16:15:51.917696+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -141,7 +163,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Hsinchu-Taiwan/Product-Engineer---RAPID_2641497",
    "desc": "",
-   "posted": "2026-09-28T07:20:16.197678+00:00",
+   "posted": "2026-09-28T16:15:58.222371+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -152,7 +174,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Taichung-City-Taiwan/Customer-Engagement-Application-Engineer_2641469-1",
    "desc": "",
-   "posted": "2026-09-29T07:20:16.197705+00:00",
+   "posted": "2026-09-29T16:15:58.222381+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -163,7 +185,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/DevOps-Engineer_2640063",
    "desc": "",
-   "posted": "2026-09-29T07:20:19.846389+00:00",
+   "posted": "2026-09-29T16:16:04.383328+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -761,17 +783,6 @@
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
-   "title": "Product Counsel, Data Products",
-   "company": "stripe",
-   "location": "US remote",
-   "type": "internship",
-   "source": "Stripe (Greenhouse)",
-   "url": "https://stripe.com/jobs/search?gh_jid=7930151",
-   "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team Stripe’s Product Legal team is responsible for managing the legal and regulatory elements of the design, build and execution of our products and services. We work on some of the hardest technical, commercial, and regulatory problems around, and we’re looking for a ",
-   "posted": "2026-09-25T16:44:44-04:00",
-   "first_seen": "2026-10-03T02:54:45.879352+00:00"
-  },
-  {
    "title": "Product Counsel - RevSuite/Startups",
    "company": "stripe",
    "location": "US remote",
@@ -801,7 +812,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=7230921",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Risk Operations is responsible for managing the risk relationships spanning across global payment method, card, and financial partners. It's our mission to build operational controls to mitigate user and partner risk and enable strategic development opportunities. ",
-   "posted": "2026-10-01T12:24:46-04:00",
+   "posted": "2026-10-05T10:32:47-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -812,7 +823,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8175824",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Strategic Supportability Operations (SSO) sits within Risk Operations and User Policy Operations. Our team is focused on protecting and advancing Stripe's business, brand, and mission by deploying industry-leading supportability solutions that instill user and part",
-   "posted": "2026-09-25T16:45:01-04:00",
+   "posted": "2026-10-05T12:01:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
