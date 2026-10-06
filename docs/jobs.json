@@ -1,15 +1,48 @@
 {
- "updated": "2026-10-06T07:46:41.723597+00:00",
+ "updated": "2026-10-06T18:58:30.498424+00:00",
  "jobs": [
   {
-   "title": "Product Recruiter",
+   "title": "Buyer/Planner",
+   "company": "KLA",
+   "location": "",
+   "type": "",
+   "source": "KLA (Workday)",
+   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Phoenix-AZ/Buyer-Planner_2640247-1",
+   "desc": "",
+   "posted": "2026-10-06T18:58:20.049993+00:00",
+   "first_seen": "2026-10-06T18:58:30.486125+00:00"
+  },
+  {
+   "title": "Partner Marketing Leader, Alliances & Channel",
+   "company": "stripe",
+   "location": "Seattle, San Francisco, or US-Remote",
+   "type": "internship",
+   "source": "Stripe (Greenhouse)",
+   "url": "https://stripe.com/jobs/search?gh_jid=8257500",
+   "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The Partner Marketing team extends Stripe’s marketing reach to customers and prospects by educating, engaging and enabling partners, globally, to build market awareness and generate demand for their Stripe solutions and services. We recruit prospective partners",
+   "posted": "2026-10-06T13:17:17-04:00",
+   "first_seen": "2026-10-06T18:58:30.486125+00:00"
+  },
+  {
+   "title": "Strategy and Analytics Business Partner",
+   "company": "stripe",
+   "location": "Bengaluru",
+   "type": "internship",
+   "source": "Stripe (Greenhouse)",
+   "url": "https://stripe.com/jobs/search?gh_jid=7813411",
+   "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The Internal System Org is at the core of Stripe to empower mission-critical financial domains including Finance & Strategy (F&S), Accounting, Tax, Treasury, Product Experience, GTM. We are the Financial Enablement team, acting as the centralized data analytics",
+   "posted": "2026-10-06T10:09:54-04:00",
+   "first_seen": "2026-10-06T18:58:30.486125+00:00"
+  },
+  {
+   "title": "Design Recruiter",
    "company": "stripe",
    "location": "Remote",
    "type": "internship",
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8163193",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team The recruiting team seeks to build the culture of Stripe by aligning the strongest global talent to our highest impact business needs. They focus on bringing Stripe’s operating principles to life in their recruiting processes, providing the highest-quality candidat",
-   "posted": "2026-10-05T13:47:17-04:00",
+   "posted": "2026-10-06T11:12:30-04:00",
    "first_seen": "2026-10-06T07:46:41.717848+00:00"
   },
   {
@@ -42,7 +75,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Applications-Engineer_2640096",
    "desc": "",
-   "posted": "2026-10-05T07:46:27.220663+00:00",
+   "posted": "2026-10-05T18:58:15.361026+00:00",
    "first_seen": "2026-10-05T16:16:07.613574+00:00"
   },
   {
@@ -64,7 +97,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Specialist--Software-Technology_2639711-1",
    "desc": "",
-   "posted": "2026-09-29T07:46:25.131656+00:00",
+   "posted": "2026-09-29T18:58:13.339328+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -75,7 +108,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Associate-Software-Engineer_2639562",
    "desc": "",
-   "posted": "2026-09-29T07:46:25.131670+00:00",
+   "posted": "2026-09-29T18:58:13.339334+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -86,7 +119,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Software-Quality-Engineer_2641380-1",
    "desc": "",
-   "posted": "2026-09-23T07:46:25.865646+00:00",
+   "posted": "2026-09-23T18:58:13.955990+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -97,7 +130,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Specialist--Technology---Software_2641137",
    "desc": "",
-   "posted": "2026-10-05T07:46:25.865655+00:00",
+   "posted": "2026-10-05T18:58:13.955994+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -108,7 +141,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Engr--Software-QA-2_2640389",
    "desc": "",
-   "posted": "2026-09-29T07:46:26.602992+00:00",
+   "posted": "2026-09-29T18:58:14.612274+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -119,7 +152,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Specialist--Software-Technology-PLC-Programming_2640068",
    "desc": "",
-   "posted": "2026-09-29T07:46:26.603078+00:00",
+   "posted": "2026-09-29T18:58:14.612318+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -130,7 +163,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Software-Quality-Engineer---Automation---AI_2641371",
    "desc": "",
-   "posted": "2026-10-01T07:46:27.220598+00:00",
+   "posted": "2026-10-01T18:58:15.360984+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -141,7 +174,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Associate---Technical-Lead-PLC-Programming_2640061",
    "desc": "",
-   "posted": "2026-09-29T07:46:28.003303+00:00",
+   "posted": "2026-09-29T18:58:16.068296+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -152,7 +185,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Phoenix-AZ/Fleet-Engineer_2637290-1",
    "desc": "",
-   "posted": "2026-09-28T07:46:28.003358+00:00",
+   "posted": "2026-09-28T18:58:16.068327+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -163,7 +196,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Development-Engineer-Intern_2641521-1",
    "desc": "",
-   "posted": "2026-09-30T07:46:31.409642+00:00",
+   "posted": "2026-09-30T18:58:19.469652+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -174,7 +207,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Newport-United-Kingdom/RF---Plasma-Technologist_2640129",
    "desc": "",
-   "posted": "2026-09-23T07:46:32.014039+00:00",
+   "posted": "2026-09-23T18:58:20.049985+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -185,18 +218,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Hsinchu-Taiwan/Product-Engineer---RAPID_2641497",
    "desc": "",
-   "posted": "2026-09-28T07:46:34.182904+00:00",
-   "first_seen": "2026-10-03T02:54:45.879352+00:00"
-  },
-  {
-   "title": "Customer Engagement Application Engineer",
-   "company": "KLA",
-   "location": "",
-   "type": "",
-   "source": "KLA (Workday)",
-   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Taichung-City-Taiwan/Customer-Engagement-Application-Engineer_2641469-1",
-   "desc": "",
-   "posted": "2026-09-29T07:46:34.182923+00:00",
+   "posted": "2026-09-28T18:58:21.877056+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -207,7 +229,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/DevOps-Engineer_2640063",
    "desc": "",
-   "posted": "2026-09-29T07:46:37.808360+00:00",
+   "posted": "2026-09-29T18:58:25.431173+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -235,23 +257,23 @@
   {
    "title": "Account Executive, Enterprise (Grower) ",
    "company": "stripe",
-   "location": "US-San Francisco, US-Seattle, US-West Coast (Remote) ",
-   "type": "internship",
-   "source": "Stripe (Greenhouse)",
-   "url": "https://stripe.com/jobs/search?gh_jid=8107136",
-   "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. What you’ll do As an Account Executive, Enterprise (Grower), you’ll be managing existing relationships and identifying new opportunities to expand Stripe’s footprint within existing accounts. Specifically, we’re looking for someone who can execute on long-term sales strategies, e",
-   "posted": "2026-09-25T16:44:52-04:00",
-   "first_seen": "2026-10-03T02:54:45.879352+00:00"
-  },
-  {
-   "title": "Account Executive, Enterprise (Grower) ",
-   "company": "stripe",
    "location": "US-Remote-CA, US-San Francisco, US-Seattle, US-New York",
    "type": "internship",
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=7993151",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. What you’ll do As an Account Executive, Existing Business, you’ll be managing existing relationships and identifying new opportunities to expand Stripe’s footprint within existing accounts. Specifically, we’re looking for someone who can execute on long-term sales strategies, eng",
    "posted": "2026-09-25T16:44:45-04:00",
+   "first_seen": "2026-10-03T02:54:45.879352+00:00"
+  },
+  {
+   "title": "Account Executive, Enterprise (Grower) ",
+   "company": "stripe",
+   "location": "US-San Francisco, US-Seattle, US-West Coast (Remote) ",
+   "type": "internship",
+   "source": "Stripe (Greenhouse)",
+   "url": "https://stripe.com/jobs/search?gh_jid=8107136",
+   "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. What you’ll do As an Account Executive, Enterprise (Grower), you’ll be managing existing relationships and identifying new opportunities to expand Stripe’s footprint within existing accounts. Specifically, we’re looking for someone who can execute on long-term sales strategies, e",
+   "posted": "2026-09-25T16:44:52-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -505,17 +527,6 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8063857",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team As a leading player in the internet economy, Stripe has a responsibility to protect itself, our users, end customers, and the broader financial ecosystem from harm. Fraud Operations proactively reduces fraud, making it difficult and unprofitable for fraudsters ",
    "posted": "2026-09-25T16:44:49-04:00",
-   "first_seen": "2026-10-03T02:54:45.879352+00:00"
-  },
-  {
-   "title": "Fraud Patterns Analyst",
-   "company": "stripe",
-   "location": "US-Remote",
-   "type": "internship",
-   "source": "Stripe (Greenhouse)",
-   "url": "https://stripe.com/jobs/search?gh_jid=7913410",
-   "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world's largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The Risk Operations team is looking for an experienced fraud analyst to join an industry-leading global fraud operations team. This position is responsible for writing and maintaining fraud rulesets to prevent transaction fraud, conducting data analysis to iden",
-   "posted": "2026-09-25T16:44:43-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
