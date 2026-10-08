@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-07T14:38:51.227268+00:00",
+ "updated": "2026-10-08T07:42:54.877859+00:00",
  "jobs": [
+  {
+   "title": "Backend Engineer, Developer & End-user Experience Platform",
+   "company": "stripe",
+   "location": "Toronto Canada, San Francisco, Remote in US, Remote in Canada",
+   "type": "internship",
+   "source": "Stripe (Greenhouse)",
+   "url": "https://stripe.com/jobs/search?gh_jid=7292520",
+   "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team Stripe's Developer & End-user Experience Platform (DEEP) organization empowers all of Stripe's products with a shared product platform that helps with rapidly delivering high-quality, cross-product experiences across our UI and API surfaces. It focuses on providing",
+   "posted": "2026-10-07T19:02:27-04:00",
+   "first_seen": "2026-10-08T07:42:54.874155+00:00"
+  },
   {
    "title": "Payments Fraud Investigator",
    "company": "stripe",
@@ -9,7 +20,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8261213",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team What you’ll do As a Payments Fraud Investigator, you’ll play a critical role in safeguarding our financial ecosystem by investigating high-risk accounts and identifying various forms of fraud. You’ll conduct deep-dive analyses of merchant accounts, lead cross-f",
-   "posted": "2026-10-07T09:52:23-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-07T14:38:51.221129+00:00"
   },
   {
@@ -20,7 +31,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Kulim-Malaysia/Software-Application-Engineer--based-in-Kulim-_2641136",
    "desc": "",
-   "posted": "2026-10-07T14:38:31.393749+00:00",
+   "posted": "2026-10-07T07:42:40.947390+00:00",
    "first_seen": "2026-10-07T07:26:38.511297+00:00"
   },
   {
@@ -31,7 +42,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Aftermarket-Business-Data-Analyst_2638660",
    "desc": "",
-   "posted": "2026-10-06T14:38:32.256044+00:00",
+   "posted": "2026-10-06T07:42:41.652788+00:00",
    "first_seen": "2026-10-07T07:26:38.511297+00:00"
   },
   {
@@ -42,7 +53,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8203220",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The Fraud Architect team helps Stripe’s largest and most complex users manage fraud and abuse across the customer lifecycle. We combine deep fraud expertise, technical investigation, and product knowledge to help users understand emerging threats, optimize Radar, a",
-   "posted": "2026-10-06T19:50:04-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-07T07:26:38.511297+00:00"
   },
   {
@@ -53,7 +64,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=6470774",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team As a Sales Development Representative (SDR) at Stripe, you'll drive Stripe's future growth engine by working with Demand Gen and the Account Executive team to qualify leads and collaboratively build Stripe's sales pipeline. You get excited about engaging with prosp",
-   "posted": "2026-10-07T01:35:35-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-07T07:26:38.511297+00:00"
   },
   {
@@ -64,7 +75,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Phoenix-AZ/Buyer-Planner_2640247-1",
    "desc": "",
-   "posted": "2026-10-06T14:38:36.448408+00:00",
+   "posted": "2026-10-06T07:42:45.670757+00:00",
    "first_seen": "2026-10-06T18:58:30.486125+00:00"
   },
   {
@@ -75,7 +86,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8257500",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The Partner Marketing team extends Stripe’s marketing reach to customers and prospects by educating, engaging and enabling partners, globally, to build market awareness and generate demand for their Stripe solutions and services. We recruit prospective partners",
-   "posted": "2026-10-06T13:17:17-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-06T18:58:30.486125+00:00"
   },
   {
@@ -86,7 +97,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=7813411",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The Internal System Org is at the core of Stripe to empower mission-critical financial domains including Finance & Strategy (F&S), Accounting, Tax, Treasury, Product Experience, GTM. We are the Financial Enablement team, acting as the centralized data analytics",
-   "posted": "2026-10-06T10:09:54-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-06T18:58:30.486125+00:00"
   },
   {
@@ -97,7 +108,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8163193",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team The recruiting team seeks to build the culture of Stripe by aligning the strongest global talent to our highest impact business needs. They focus on bringing Stripe’s operating principles to life in their recruiting processes, providing the highest-quality candidat",
-   "posted": "2026-10-06T11:12:30-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-06T07:46:41.717848+00:00"
   },
   {
@@ -108,7 +119,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8248507",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team The Partner Marketing team extends Stripe’s marketing reach to customers and prospects by educating, engaging and enabling partners, globally, to build market awareness and generate demand for their Stripe solutions and services. We recruit prospective partners and",
-   "posted": "2026-10-05T17:23:24-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-06T07:46:41.717848+00:00"
   },
   {
@@ -130,7 +141,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Applications-Engineer_2640096",
    "desc": "",
-   "posted": "2026-10-05T14:38:31.393729+00:00",
+   "posted": "2026-10-05T07:42:40.947376+00:00",
    "first_seen": "2026-10-05T16:16:07.613574+00:00"
   },
   {
@@ -141,7 +152,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8237526",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The recruiting team seeks to build the culture of Stripe by aligning the strongest global talent to our highest impact business needs. They focus on bringing Stripe’s operating principles to life in their recruiting processes, providing the highest-quality cand",
-   "posted": "2026-10-05T02:50:19-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-05T07:20:23.199717+00:00"
   },
   {
@@ -152,7 +163,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Specialist--Software-Technology_2639711-1",
    "desc": "",
-   "posted": "2026-09-29T14:38:29.246381+00:00",
+   "posted": "2026-09-29T07:42:39.122448+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -163,7 +174,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Associate-Software-Engineer_2639562",
    "desc": "",
-   "posted": "2026-09-29T14:38:29.246393+00:00",
+   "posted": "2026-09-29T07:42:39.122460+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -174,7 +185,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Specialist--Technology---Software_2641137",
    "desc": "",
-   "posted": "2026-10-05T14:38:30.028226+00:00",
+   "posted": "2026-10-05T07:42:39.715452+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -185,7 +196,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Engr--Software-QA-2_2640389",
    "desc": "",
-   "posted": "2026-09-29T14:38:30.686147+00:00",
+   "posted": "2026-09-29T07:42:40.305175+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -196,7 +207,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Specialist--Software-Technology-PLC-Programming_2640068",
    "desc": "",
-   "posted": "2026-09-29T14:38:30.686224+00:00",
+   "posted": "2026-09-29T07:42:40.305252+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -207,7 +218,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Software-Quality-Engineer---Automation---AI_2641371",
    "desc": "",
-   "posted": "2026-10-01T14:38:31.393656+00:00",
+   "posted": "2026-10-01T07:42:40.305265+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -218,7 +229,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Associate---Technical-Lead-PLC-Programming_2640061",
    "desc": "",
-   "posted": "2026-09-29T14:38:32.256031+00:00",
+   "posted": "2026-09-29T07:42:41.652775+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -229,7 +240,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Phoenix-AZ/Fleet-Engineer_2637290-1",
    "desc": "",
-   "posted": "2026-09-28T14:38:32.915083+00:00",
+   "posted": "2026-09-28T07:42:42.223289+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -240,7 +251,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Development-Engineer-Intern_2641521-1",
    "desc": "",
-   "posted": "2026-09-30T14:38:35.827051+00:00",
+   "posted": "2026-09-30T07:42:45.104872+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -251,18 +262,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Hsinchu-Taiwan/Product-Engineer---RAPID_2641497",
    "desc": "",
-   "posted": "2026-09-28T14:38:38.520503+00:00",
-   "first_seen": "2026-10-03T02:54:45.879352+00:00"
-  },
-  {
-   "title": "Customer Engagement Application Engineer",
-   "company": "KLA",
-   "location": "",
-   "type": "",
-   "source": "KLA (Workday)",
-   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Taichung-City-Taiwan/Customer-Engagement-Application-Engineer_2641469-1",
-   "desc": "",
-   "posted": "2026-09-29T14:38:38.520521+00:00",
+   "posted": "2026-09-28T07:42:47.371666+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -273,7 +273,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/DevOps-Engineer_2640063",
    "desc": "",
-   "posted": "2026-09-29T14:38:46.630031+00:00",
+   "posted": "2026-09-29T07:42:50.818792+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -284,7 +284,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8172503",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team Abuse Research Group (ARG) handles proactive threat hunting and adversary behavior analysis across Stripe products. Rather than reacting to alerts, the team maps end-to-end fraud and abuse paths, validates novel attack vectors, and identifies product conditions tha",
-   "posted": "2026-09-25T16:45:00-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -295,7 +295,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8201690",
    "desc": "Account Executive, DACH, Commercial (Existing Business) About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies, from the world’s largest enterprises to the most ambitious startups, use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team The Commercial Grower team works with the most ambitious and fastest growing companies in the Commercial segment. Our Commercial segment includes businesses typically processing $20M–$50M in annual payment volume. Stri",
-   "posted": "2026-10-01T11:27:54-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -306,7 +306,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8107136",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. What you’ll do As an Account Executive, Enterprise (Grower), you’ll be managing existing relationships and identifying new opportunities to expand Stripe’s footprint within existing accounts. Specifically, we’re looking for someone who can execute on long-term sales strategies, e",
-   "posted": "2026-09-25T16:44:52-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -317,7 +317,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=7993151",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. What you’ll do As an Account Executive, Existing Business, you’ll be managing existing relationships and identifying new opportunities to expand Stripe’s footprint within existing accounts. Specifically, we’re looking for someone who can execute on long-term sales strategies, eng",
-   "posted": "2026-09-25T16:44:45-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -328,7 +328,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8119697",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team The CEE team is a highly consultative sales team that is responsible for the growth of Stripe’s largest customers within the region. We work with some of the most ambitious and fastest-growing companies in the world, including Booksy, Maczfit, and ElevenLabs - Stri",
-   "posted": "2026-09-25T16:44:53-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -339,7 +339,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8130052",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team The CEE team is a highly consultative sales team that is responsible for the growth of Stripe’s largest customers within the region. We work with some of the most ambitious and fastest-growing companies in the world, including Booksy, Maczfit, and ElevenLabs - Stri",
-   "posted": "2026-09-25T16:44:54-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -350,7 +350,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8181024",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Product Sales is a team of deep functional and technical specialists who both lead and advise on deals for the most strategically important products in Stripe’s portfolio. Stripe is investing in building out its Fraud & Risk Product Sales team and as an Account",
-   "posted": "2026-09-25T16:45:02-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -361,7 +361,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8190044",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team The Money as a Service (MaaS) team helps businesses build and scale financial products using Stripe’s infrastructure. Stripe Issuing enables businesses to create and manage virtual and physical card programs, while Stripe Treasury provides financial accounts and mo",
-   "posted": "2026-09-28T17:18:40-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -372,7 +372,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8238098",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team The Money as a Service (MaaS) team helps businesses build and scale financial products using Stripe’s infrastructure. Stripe Issuing enables businesses to create and manage virtual and physical card programs, while Stripe Treasury provides financial accounts and mo",
-   "posted": "2026-09-28T17:21:40-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -383,7 +383,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=7456716",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team Stripe’s Stablecoin Issuing Product Sales team is at the forefront of unlocking tangible value from crypto. This team helps fintechs, platforms, marketplaces, and crypto-native companies launch global card programs funded by stablecoin balances – giving their users",
-   "posted": "2026-09-25T22:04:54-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -394,7 +394,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8190048",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Product Sales is a team of functional and technical specialists who both lead and advise on deals for the most strategically important products in the Stripe portfolio. Revenue suite Product Sales is tasked with pursuing a $100B market opportunity for back-office f",
-   "posted": "2026-09-25T16:45:04-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -405,7 +405,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=6042172",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Stripe Infrastructure is responsible for the reliability, scale, performance, and cost of Stripe's systems and the productivity and sentiment of Stripe's people. You may work on a wide variety of critical business areas including: Core Infrastructure—We're the home",
-   "posted": "2026-09-25T16:44:31-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -416,7 +416,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8079783",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team Strategy & Analytics (S&A) maximizes and accelerates Operations' ability to make Stripe work for our users. We aspire to be the COOs for Stripe Ops, working cross-functionally with global teams to help run the day-to-day business and articulate and achieve the long",
-   "posted": "2026-09-25T16:44:51-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -427,7 +427,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=7994945",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The Procurement team provides services to the businesses that are the backbone for Stripe. Stripe's newly revamped broader Procurement organization consists of Third Party Risk, Strategic Sourcing, Supplier Deal Management, Procurement Enablement, AP and T&E. To fa",
-   "posted": "2026-09-25T16:44:46-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -438,7 +438,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=7540441",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The Credit team protects Stripe by managing the end-to-end risk of our largest and most complex users. We leverage deep underwriting expertise and data-driven stress heuristics to make informed decisions at every stage of the user lifecycle—from onboarding to loss ",
-   "posted": "2026-10-07T08:04:40-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -449,7 +449,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=7612192",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The Credit team protects Stripe by managing the end-to-end risk of our largest and most complex users. We leverage deep underwriting expertise and data-driven stress heuristics to make informed decisions at every stage of the user lifecycle—from onboarding to loss ",
-   "posted": "2026-10-07T07:57:19-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -460,7 +460,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8104748",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team Stripe was built with simplicity in mind. We strive to deliver frictionless experiences for all of our users, whether they are an Independent Business, Startup, SMB, or Enterprise and our mission is to provide all Stripe Users with the best support experience possi",
-   "posted": "2026-09-25T16:44:52-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -471,7 +471,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8047791",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The credit risk operations team plays a critical role in ensuring a healthy financial ecosystem for businesses around the world. This team will directly impact the company's bottom line and growth capabilities by supporting new and emerging businesses. The Cred",
-   "posted": "2026-09-25T16:44:48-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -482,7 +482,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8188326",
    "desc": "Who we are Financial Crimes Compliance Risk Oversight (FinCRO) is hiring an Enterprise Compliance and Risk Controls Lead for financial crimes controls and governance at Stripe. This role will support Bridge and Privy controls plus provide critical inputs for policy governance and Financial Crimes Risk Assessment (FCRA) across Stripe entities. You will combine financial crimes controls expertise with strong program management, using AI responsibly to improve the quality, consistency, and scalability of our work. The role will support key financial crimes priorities, including evolving requirements related to the Travel Rule. What you’ll do Ensure Bridge and Privy controls are appropriately designed, evidenced, governed, and implemented. Drive relevant financial crimes policy governance acro",
-   "posted": "2026-09-25T16:45:03-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -493,7 +493,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=7958150",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team GBS's primary goal is to ensure operational excellence across deal cycles, increase revenue through the development of transformative commercial constructs, and drive closure of Stripe's deal portfolio. The team's reach is widespread across Stripe, not exclusiv",
-   "posted": "2026-09-25T16:44:44-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -504,7 +504,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8130913",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team: Web Presence & Platform (WPP) is organized into two pillars: Platform and Presence . The Platform pillar builds internal systems, tooling, and infrastructure to support the web. The Presence pillar owns Stripe’s public-facing storytelling across stripe.com , inclu",
-   "posted": "2026-09-25T16:44:55-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -515,7 +515,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=7597613",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team We are building an elite team to drive financial insight and strategy at Stripe. The Finance & Strategy team brings understanding and predictability to Stripe’s financials, and we work together with our key business partners to accelerate long term growth for Strip",
-   "posted": "2026-09-25T16:44:38-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -526,7 +526,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8055930",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies — from the world's largest enterprises to the most ambitious startups — use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The Stripe Marketing organization is undergoing a fundamental transformation in how it works. We're building a team of Forward Deployed AI Accelerators (FDAs) embedded directly with marketing cohorts to make AI the default mode for all work — not an occasional ",
-   "posted": "2026-09-25T16:44:49-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -537,7 +537,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8076652",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team We are looking for someone passionate about fighting fraud, is naturally curious, and has a strong desire to network with peers and partners within the fraud space.  You will be responsible for conducting account investigations, making account-level judgements, and",
-   "posted": "2026-09-25T16:44:50-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -548,7 +548,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8066310",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team We are looking for someone passionate about fighting fraud, is naturally curious, and has a strong desire to network with peers and partners within the fraud space.  You will be responsible for conducting account investigations, making account-level judgements, and",
-   "posted": "2026-09-25T16:44:50-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -559,7 +559,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8063857",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team As a leading player in the internet economy, Stripe has a responsibility to protect itself, our users, end customers, and the broader financial ecosystem from harm. Fraud Operations proactively reduces fraud, making it difficult and unprofitable for fraudsters ",
-   "posted": "2026-09-25T16:44:49-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -570,7 +570,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8227570",
    "desc": "About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team and the role The People Systems Operations Administrator supports the day-to-day work that keeps Stripe’s People technology running accurately and reliably. The role sits in the Service Delivery Center and works as part of the wider People Solutions team, with a close dotted-",
-   "posted": "2026-10-01T15:43:05-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -581,7 +581,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=7993610",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The Go-to-Market (GTM) Planning Strategy and Operations team works at the intersection of corporate planning, GTM Strategy, Product, GTM and Regional Strategy and Operations with responsibility for ensuring that we land the Stripe annual rhythm in a smooth and ",
-   "posted": "2026-09-25T16:44:45-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -592,7 +592,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8016504",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team The recruiting team seeks to build the culture of Stripe by aligning the strongest global talent to our highest impact business needs. They focus on bringing Stripe’s operating principles to life in their recruiting processes, providing the highest-quality candidat",
-   "posted": "2026-09-25T16:44:47-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -603,7 +603,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8230564",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies, from the world’s largest enterprises to the most ambitious startups, use Stripe to accept payments, grow their revenue, and create new business opportunities. Our mission is to increase the gross domestic product of the internet, and we have a significant amount of work ahead. That means you have an opportunity to put the global economy within everyone’s reach while doing some of the most important work of your career. About the team The Recruiting team’s mission is to build Stripe’s teams by identifying and attracting people who can help us increase the gross domestic product of the internet. We work closely with business leaders to understand their goals, anticipate talent needs, ",
-   "posted": "2026-09-25T16:45:09-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -614,7 +614,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8128634",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Growth Marketing is a team of performance-driven marketers and channel specialists. We partner closely with growth product, regional and demand marketing, and sales to drive revenue through self-serve and sales motions. The SEO & AEO function specifically drive",
-   "posted": "2026-09-25T16:44:54-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -625,7 +625,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=7950828",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the Team Stripe's Finance Operations (FinOps) organisation delivers elegant financial services that are efficient, precise, and resilient—yielding a consistent, delightful experience grounded in controllership. Our service pillars span Accounts Payable, Accounts Receivable,",
-   "posted": "2026-09-25T16:44:44-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -636,7 +636,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8036235",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Our Product Marketing team generates customer insights that shape Stripe's product strategy and leads go-to-market across our suite of products. It's a highly cross-functional role—we partner closely with Product, Engineering, Sales, Partnerships, and Demand Genera",
-   "posted": "2026-09-25T16:44:48-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -647,7 +647,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8189020",
    "desc": "About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Stripe’s mission is to increase the GDP of the internet and we have a staggering amount of work to do. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team Our tax team works with Stripes across the company to build an efficient, scalable tax operating model as our international business grows, enters new markets and launches new products. We are looking for an experienced tax leader to own Stripe’s India tax agenda and ",
-   "posted": "2026-09-25T16:45:03-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -658,7 +658,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8187572",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The Global Demand and Field Marketing team builds full-funnel, integrated marketing programs that connect brand to demand across both sales-led and self-serve customer journeys. Working in close alignment with Product and Go-to-Market teams, we translate busine",
-   "posted": "2026-09-25T16:45:03-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -669,7 +669,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=7819426",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team Stripe’s Professional Services team works with our most strategic users. You will work on the highest visibility projects to provide technical expertise to our customers to help accelerate their knowledge, solution design and integrations with Stripe. This role is ",
-   "posted": "2026-10-02T13:04:27-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -680,7 +680,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8175647",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Metronome is a usage-based billing platform and a Stripe product. It helps modern software companies launch products faster, offer flexible pricing models, and streamline finance workflows. The Metronome Integration Engineering team sits at the intersection of ",
-   "posted": "2026-09-25T16:45:01-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -691,29 +691,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8080454",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Metronome is a usage-based billing platform and a Stripe product. It helps modern software companies launch products faster, offer flexible pricing models, and streamline finance workflows. The Metronome Integration Engineering team sits at the intersection of ",
-   "posted": "2026-09-25T16:44:51-04:00",
-   "first_seen": "2026-10-03T02:54:45.879352+00:00"
-  },
-  {
-   "title": "Investigator ",
-   "company": "stripe",
-   "location": "US Remote ",
-   "type": "internship",
-   "source": "Stripe (Greenhouse)",
-   "url": "https://stripe.com/jobs/search?gh_jid=8172491",
-   "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team Abuse Operations is the front-line incident response and remediation function handling active product abuse and fraud impacting Stripe and its merchants. This multi-disciplinary group, spanning Incident Managers, Investigators, Forward Deployed Security Engineers, ",
-   "posted": "2026-09-25T16:45:00-04:00",
-   "first_seen": "2026-10-03T02:54:45.879352+00:00"
-  },
-  {
-   "title": "Investment Lead, Intercept",
-   "company": "stripe",
-   "location": "New York City, San Francisco, US-Remote",
-   "type": "internship",
-   "source": "Stripe (Greenhouse)",
-   "url": "https://stripe.com/jobs/search?gh_jid=8083464",
-   "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team This role is on the Intercept team, which is part of Stripe's broader collection of public goods initiatives, including Frontier . Respiratory viruses kill 1 million people a year, cost us $600B annually, disrupt everyday life, and periodically threaten civiliz",
-   "posted": "2026-09-25T16:44:51-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -724,7 +702,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=6209187",
    "desc": "Legal Entity Controller (Bangalore) About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. To further this important mission, we're building our Accounting team in Bangalore Finance and are looking for someone to help us scale for the future in a fast-paced environment. Responsibilities End-to-end controllership for assigned legal entity(ies), ",
-   "posted": "2026-09-25T16:44:31-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -735,7 +713,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8230294",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team As Stripe’s user base and global footprint grows dramatically, we have distinctly unique support problems resulting from both our type of scale and the type of businesses we partner with. The Stripe Delivery Center (SDC) strategy will provide operational levera",
-   "posted": "2026-09-30T01:50:23-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -746,7 +724,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8021192",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The Finance Operations (FinOps) team provides and enhances core business services that are the backbone of Stripe. FinOps uses data and operational excellence to deliver technology solutions, payroll services, operational excellence, and monetization services to St",
-   "posted": "2026-09-25T16:44:47-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -757,7 +735,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8233889",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The Proactive Threat team is responsible for identifying vulnerabilities and security weaknesses across Stripe's systems, applications, networks, and cloud infrastructure — before adversaries do. We operate as a hybrid offensive function: conducting penetration tes",
-   "posted": "2026-09-25T16:45:09-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -768,7 +746,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8131339",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Stripe was built with simplicity in mind. We strive to deliver frictionless experiences for all of our users, whether they are an Independent Business, Startup, SMB, or Enterprise, and our mission is to provide all Stripe Users with the best support experience poss",
-   "posted": "2026-09-25T16:44:55-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -779,7 +757,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8098394",
    "desc": "About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team Did you know that only around 4% of the world’s GDP comes from internet commerce? At Stripe, we believe that this represents a future with almost limitless potential for innovation, creativity and global prosperity. While the promise of a global online economy is palpable, it",
-   "posted": "2026-09-25T16:44:53-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -790,7 +768,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=7997542",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team The Operations Performance & Enablement Team supports the TaxJar product and broader Tax Operations teams by using data to drive better decisions and continuous improvement. We make performance visible, decisions deliberate, and improvement repeatable—acting as a f",
-   "posted": "2026-09-25T16:44:46-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -801,7 +779,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8227563",
    "desc": "Please note - for candidates living within 35 miles of a Stripe office (San Francisco, Seattle, New York, Chicago or Georgia) we operate a hybrid work policy where 50% office attendance per month is expected. For candidates more than 35 miles from an office, fully remote work can be approved. Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies, from the world’s largest enterprises to the most ambitious startups, use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work ",
-   "posted": "2026-09-25T16:45:08-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -812,7 +790,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8178459",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The Executive Content & Experiences team builds trusted relationships with leaders shaping the global economy. We design high-impact programs—including executive briefings, advisory boards, flagship convenings at Davos, and executive programming at Stripe Sessi",
-   "posted": "2026-09-25T16:45:02-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -823,7 +801,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=7858811",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The Pricing Strategy team is part of the Stripe Product Marketing organization and is responsible for how Stripe prices its products. Our work is highly cross-functional and we partner closely with Product, Finance, and Sales to tackle some of the most visible and ",
-   "posted": "2026-09-25T16:44:40-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -834,7 +812,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=7370967",
    "desc": "Who we are About Stripe At Stripe, you have an unprecedented opportunity to put the global economy within everyone’s reach. Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. About the team Specialist Solutions Architects (SSA) are domain experts aligned to specific Stripe solutions and customer buying centers. We have in-depth knowledge of specific solution offerings and a deep understanding of customer challenges. We align with specialist product sellers on deals, advise the broader pre-sales team o",
-   "posted": "2026-09-25T16:44:36-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -845,7 +823,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=7975698",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Stripe was built with simplicity in mind. We strive to deliver frictionless experiences for all of our users, whether they are an Independent Business, Startup, SMB, or Enterprise, and our mission is to provide all Stripe users with the best support experience poss",
-   "posted": "2026-09-25T16:44:45-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -856,7 +834,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=7230921",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Risk Operations is responsible for managing the risk relationships spanning across global payment method, card, and financial partners. It's our mission to build operational controls to mitigate user and partner risk and enable strategic development opportunities. ",
-   "posted": "2026-10-05T10:32:47-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -867,7 +845,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8175824",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Strategic Supportability Operations (SSO) sits within Risk Operations and User Policy Operations. Our team is focused on protecting and advancing Stripe's business, brand, and mission by deploying industry-leading supportability solutions that instill user and part",
-   "posted": "2026-10-05T12:01:27-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -878,7 +856,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8225841",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies, from the world’s largest enterprises to the most ambitious AI startups, use Stripe to accept payments, grow their revenue, and create new business opportunities. Our mission is to increase the GDP of the internet, and we have a significant amount of work ahead. That means you’ll have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. What you’ll do India is producing a new generation of ambitious, AI-native companies built for global markets, while global businesses increasingly look to India for growth. As the Sales Leader, India, you will shape Stripe’s role in this transformation, helping businesses e",
-   "posted": "2026-09-30T00:05:27-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -889,7 +867,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8175627",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The Partner Marketing team extends Stripe’s marketing reach to customers and prospects by educating, engaging, and enabling partners, globally, to build market awareness and generate demand for their Stripe solutions and services. We recruit prospective partner",
-   "posted": "2026-09-25T16:45:01-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -900,7 +878,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8174965",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team Abuse Control Engineering (ACE) is Stripe’s rapid-response technical defense and control incubator. When urgent abuse vectors emerge, ACE bridges the gap using real attacker telemetry to prototype, test, and deploy software safeguards before vulnerabilities can be ",
-   "posted": "2026-09-25T16:45:01-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -911,7 +889,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8175820",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team As Stripe’s user base and global footprint grows dramatically, we have distinctly unique support problems resulting from both our type of scale and the type of businesses we partner with. The Stripe Delivery Center (SDC) strategy will provide operational levera",
-   "posted": "2026-09-25T16:45:01-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -922,7 +900,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=7962437",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Stripe was built with simplicity in mind. We strive to deliver frictionless experiences for all of our users, whether they are an Independent Business, Startup, SMB, or Enterprise and our mission is to provide all Stripe Users with the best support experience p",
-   "posted": "2026-09-25T16:44:44-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -933,7 +911,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8031833",
    "desc": "Who we are About Stripe Stripe is a technology company focused on improving the conditions for economic growth and prosperity. We build programmable financial infrastructure, rethinking from first principles how financial services should work, to make it easier and cheaper for any business to start and scale. More than 10 million businesses build on Stripe, spanning the economic frontier—from solo founders to established enterprises—united by a practical focus on growth. The most ambitious companies in the world use Stripe as core infrastructure to grow faster. They process trillions of dollars a year on Stripe, equivalent to around 1.6% of global GDP. While economic growth makes everyone better off, open markets also enable greater variety. When any business can easily serve a global cust",
-   "posted": "2026-09-25T16:44:48-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -944,7 +922,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=7543868",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Our mission is to enable effective financial decisions through reliable data, increased efficiency, and automation. We support Marketing, Sales, Seller, Accounting, Tax, Finance and Strategy (F&S), Finance Operations (FinOps), and Treasury functions across automati",
-   "posted": "2026-09-25T16:44:37-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -955,7 +933,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8231439",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The Revenue and Financial Automation (RFA) team at Stripe is building a modern, revenue-focused, financial management platform for fast-growing, digital-native companies. Hundreds of thousands of businesses of all sizes and types use Stripe Billing to collect reven",
-   "posted": "2026-09-30T14:44:16-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -966,7 +944,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8127182",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The Revenue and Financial Automation (RFA) organization at Stripe is building a modern, revenue-focused, financial management platform for fast-growing, digital-native companies. Hundreds of thousands of businesses of all sizes and types use Stripe Billing to colle",
-   "posted": "2026-10-03T16:18:56-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -977,7 +955,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8209970",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Stripe Data Pipeline —The Stripe Data Pipeline (SDP) team owns a critical product that delivers all of a merchant's Stripe data directly into their data warehouse. We serve major technology companies and Fortune 100 enterprises, delivering petabytes of data daily w",
-   "posted": "2026-09-25T16:45:06-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -988,7 +966,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8089353",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team In this role, you would join Stripe's Vulnerability Management team, whose mission is to \"Surface vulnerabilities at scale across Stripe.\" Our vision is to create a culture of continuous excellence in managing vulnerabilities. We want to enhance customer trust by g",
-   "posted": "2026-09-25T16:44:51-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -999,7 +977,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8042913",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The Solutions Architecture Team partners with our users to realize their full potential through the adoption of prescriptive solutions that drive their growth and success. We work with founders, C-level executives, finance leaders, product design and engineerin",
-   "posted": "2026-09-25T16:44:48-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -1010,7 +988,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=7728618",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team Specialist Solutions Architects (SSA) are domain experts aligned to specific Stripe solutions and customer buying centers. We have in-depth knowledge of specific solution offerings and a deep understanding of customer challenges. We align with specialist product se",
-   "posted": "2026-10-02T12:32:38-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -1021,7 +999,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8144262",
    "desc": "Who We Are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About The Team Specialist Solutions Architects (SSA) are domain experts aligned to specific Stripe solutions and customer buying centers. We have in-depth knowledge of specific solution offerings and a deep understanding of customer challenges. We align with specialist product se",
-   "posted": "2026-09-25T16:44:56-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -1032,7 +1010,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8090244",
    "desc": "Who We Are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About The Team Specialist Solutions Architects (SSA) are domain experts aligned to specific Stripe solutions and customer buying centers. We have in-depth knowledge of specific solution offerings and a deep understanding of customer challenges. We align with specialist product se",
-   "posted": "2026-09-25T16:44:51-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -1043,7 +1021,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8155580",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Stripe is looking for a senior product strategist-operator to join the Strategic Business Performance (SBP) team. SBP is the \"connective tissue\" of Stripe. You will have a front-row seat to how the company operates and a direct hand in ensuring we hit our most ",
-   "posted": "2026-09-25T16:44:57-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -1054,7 +1032,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8044391",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team Deal Pricing is a dedicated global function that provides deal pricing expertise, financial insights, and deal support for negotiated users to Stripe's global Go-to-Market teams. We work to ensure deals create economic value for Stripe by establishing the deal comm",
-   "posted": "2026-09-25T16:44:48-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -1065,7 +1043,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8171095",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The Strategy & Operations (S&O) team for Infra is responsible for enabling the continued rapid growth and operational excellence of one of Stripe's most strategic areas - the infrastructure group. This role sits at the intersection of product, engineering, stra",
-   "posted": "2026-09-25T16:45:00-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -1076,7 +1054,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=7377101",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Stripe is beloved by developers for the simplicity of our APIs, the thoroughness of our documentation, and our focus on developer experience. The Technical Solutions Engineering (TSE) team is the glue that supports our developer-users and champions developer ex",
-   "posted": "2026-09-25T16:44:36-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -1087,7 +1065,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8045862",
    "desc": "About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their in revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. What you’ll do You will act in a player-coach capacity and will be accountable for supporting associates in delivering against target set goals and mentoring in subject matter expertise. You will manage a small team of TechOps Payments Analysts. Responsibilities Champion metrics-driv",
-   "posted": "2026-09-25T16:44:48-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -1098,7 +1076,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8189018",
    "desc": "About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About Third Party Risk The Third Party Risk Management (TPRM) team is accountable for defining, maintaining, and overseeing the third party risk framework, policy, and inventory in accordance with management expectations and best practices. We are focused on assessing and managing risks exp",
-   "posted": "2026-09-25T16:45:03-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -1109,7 +1087,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8226211",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team To further this important mission, we are building the foundation for a long-term talent bench at Stripe. We believe every campus hire can build products with meaningful impact at Stripe, and provide a far-reaching impact for anyone trying to grow their business on",
-   "posted": "2026-09-29T12:56:32-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -1120,7 +1098,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8188323",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Stripe’s Financial Crimes Compliance Risk Oversight (FinCRO) team is looking for a U.S. Regulatory Compliance Lead for our Banking-as-a-Service (BaaS) business. You’ll own second-line oversight of Stripe’s U.S. BaaS products and bank-fintech partnerships. The w",
-   "posted": "2026-10-01T14:46:19-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -1131,7 +1109,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8168793",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the Internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. We cultivate a culture of collaboration, inclusivity, and support where every team member's voice matters. Our commitment shines through as we handle over a million support cases each year, empowering our users not just to solve problems but to achieve their goals. About the team",
-   "posted": "2026-09-25T16:44:59-04:00",
+   "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   }
  ]
