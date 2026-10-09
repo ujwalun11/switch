@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-09T07:38:55.870841+00:00",
+ "updated": "2026-10-09T18:54:26.848260+00:00",
  "jobs": [
+  {
+   "title": "AR Analyst",
+   "company": "stripe",
+   "location": "Bangalore",
+   "type": "internship",
+   "source": "Stripe (Greenhouse)",
+   "url": "https://stripe.com/jobs/search?gh_jid=8247127",
+   "desc": "About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team The Finance Operations (FinOps) team provides and enhances core business services that are the backbone for Stripe. FinOps uses data and operational excellence to deliver technology solutions, procurement, billing and payroll services, strategic sourcing, and supplier relatio",
+   "posted": "2026-10-09T05:52:10-04:00",
+   "first_seen": "2026-10-09T18:54:26.842044+00:00"
+  },
   {
    "title": "Bridge Product Accountant",
    "company": "stripe",
@@ -64,7 +75,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Kulim-Malaysia/Software-Application-Engineer--based-in-Kulim-_2641136",
    "desc": "",
-   "posted": "2026-10-07T07:38:41.283280+00:00",
+   "posted": "2026-10-07T18:54:11.970804+00:00",
    "first_seen": "2026-10-07T07:26:38.511297+00:00"
   },
   {
@@ -75,7 +86,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Aftermarket-Business-Data-Analyst_2638660",
    "desc": "",
-   "posted": "2026-10-06T07:38:42.013380+00:00",
+   "posted": "2026-10-06T18:54:12.813210+00:00",
    "first_seen": "2026-10-07T07:26:38.511297+00:00"
   },
   {
@@ -108,7 +119,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Phoenix-AZ/Buyer-Planner_2640247-1",
    "desc": "",
-   "posted": "2026-10-06T07:38:46.319548+00:00",
+   "posted": "2026-10-06T18:54:17.062678+00:00",
    "first_seen": "2026-10-06T18:58:30.486125+00:00"
   },
   {
@@ -163,7 +174,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Applications-Engineer_2640096",
    "desc": "",
-   "posted": "2026-10-05T07:38:41.283265+00:00",
+   "posted": "2026-10-05T18:54:11.970789+00:00",
    "first_seen": "2026-10-05T16:16:07.613574+00:00"
   },
   {
@@ -185,7 +196,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Specialist--Software-Technology_2639711-1",
    "desc": "",
-   "posted": "2026-09-29T07:38:39.440744+00:00",
+   "posted": "2026-09-29T18:54:09.732549+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -196,7 +207,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Associate-Software-Engineer_2639562",
    "desc": "",
-   "posted": "2026-09-29T07:38:39.440755+00:00",
+   "posted": "2026-09-29T18:54:09.732560+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -207,7 +218,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Software-Quality-Engineer_2641380-1",
    "desc": "",
-   "posted": "2026-10-09T07:38:40.029009+00:00",
+   "posted": "2026-10-09T18:54:10.487513+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -218,7 +229,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Specialist--Technology---Software_2641137",
    "desc": "",
-   "posted": "2026-10-05T07:38:40.029022+00:00",
+   "posted": "2026-10-05T18:54:10.487526+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -229,7 +240,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Engr--Software-QA-2_2640389",
    "desc": "",
-   "posted": "2026-09-29T07:38:40.697656+00:00",
+   "posted": "2026-09-29T18:54:11.305606+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -240,7 +251,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Specialist--Software-Technology-PLC-Programming_2640068",
    "desc": "",
-   "posted": "2026-09-29T07:38:40.697733+00:00",
+   "posted": "2026-09-29T18:54:11.305685+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -251,7 +262,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Software-Quality-Engineer---Automation---AI_2641371",
    "desc": "",
-   "posted": "2026-10-01T07:38:41.283193+00:00",
+   "posted": "2026-10-01T18:54:11.970686+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -262,7 +273,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Associate---Technical-Lead-PLC-Programming_2640061",
    "desc": "",
-   "posted": "2026-09-29T07:38:42.013367+00:00",
+   "posted": "2026-09-29T18:54:12.813197+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -273,7 +284,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Phoenix-AZ/Fleet-Engineer_2637290-1",
    "desc": "",
-   "posted": "2026-09-28T07:38:42.666900+00:00",
+   "posted": "2026-09-28T18:54:13.438396+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -284,7 +295,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Development-Engineer-Intern_2641521-1",
    "desc": "",
-   "posted": "2026-09-30T07:38:45.712505+00:00",
+   "posted": "2026-09-30T18:54:16.440796+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -295,7 +306,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Hsinchu-Taiwan/Product-Engineer---RAPID_2641497",
    "desc": "",
-   "posted": "2026-09-28T07:38:51.066980+00:00",
+   "posted": "2026-09-28T18:54:22.062125+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -306,7 +317,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/DevOps-Engineer_2640063",
    "desc": "",
-   "posted": "2026-09-29T07:38:51.684663+00:00",
+   "posted": "2026-09-29T18:54:22.718556+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -383,28 +394,6 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8181024",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Product Sales is a team of deep functional and technical specialists who both lead and advise on deals for the most strategically important products in Stripe’s portfolio. Stripe is investing in building out its Fraud & Risk Product Sales team and as an Account",
-   "posted": "2026-10-07T19:02:27-04:00",
-   "first_seen": "2026-10-03T02:54:45.879352+00:00"
-  },
-  {
-   "title": "Account Executive, Product - Issuing & Treasury (Grower)",
-   "company": "stripe",
-   "location": "US-San Francisco, US- New York, US-Remote",
-   "type": "internship",
-   "source": "Stripe (Greenhouse)",
-   "url": "https://stripe.com/jobs/search?gh_jid=8190044",
-   "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team The Money as a Service (MaaS) team helps businesses build and scale financial products using Stripe’s infrastructure. Stripe Issuing enables businesses to create and manage virtual and physical card programs, while Stripe Treasury provides financial accounts and mo",
-   "posted": "2026-10-07T19:02:27-04:00",
-   "first_seen": "2026-10-03T02:54:45.879352+00:00"
-  },
-  {
-   "title": "Account Executive, Product - Issuing & Treasury (Hunter)",
-   "company": "stripe",
-   "location": "US-San Francisco, US-New York, US-Remote",
-   "type": "internship",
-   "source": "Stripe (Greenhouse)",
-   "url": "https://stripe.com/jobs/search?gh_jid=8238098",
-   "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team The Money as a Service (MaaS) team helps businesses build and scale financial products using Stripe’s infrastructure. Stripe Issuing enables businesses to create and manage virtual and physical card programs, while Stripe Treasury provides financial accounts and mo",
    "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
@@ -504,17 +493,6 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8047791",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The credit risk operations team plays a critical role in ensuring a healthy financial ecosystem for businesses around the world. This team will directly impact the company's bottom line and growth capabilities by supporting new and emerging businesses. The Cred",
-   "posted": "2026-10-07T19:02:27-04:00",
-   "first_seen": "2026-10-03T02:54:45.879352+00:00"
-  },
-  {
-   "title": "Crypto Controls and Compliance Lead ",
-   "company": "stripe",
-   "location": "Remote US",
-   "type": "",
-   "source": "Stripe (Greenhouse)",
-   "url": "https://stripe.com/jobs/search?gh_jid=8188326",
-   "desc": "Who we are Financial Crimes Compliance Risk Oversight (FinCRO) is hiring an Enterprise Compliance and Risk Controls Lead for financial crimes controls and governance at Stripe. This role will support Bridge and Privy controls plus provide critical inputs for policy governance and Financial Crimes Risk Assessment (FCRA) across Stripe entities. You will combine financial crimes controls expertise with strong program management, using AI responsibly to improve the quality, consistency, and scalability of our work. The role will support key financial crimes priorities, including evolving requirements related to the Travel Rule. What you’ll do Ensure Bridge and Privy controls are appropriately designed, evidenced, governed, and implemented. Drive relevant financial crimes policy governance acro",
    "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
