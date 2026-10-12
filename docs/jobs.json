@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-12T07:38:19.097905+00:00",
+ "updated": "2026-10-12T21:48:22.858082+00:00",
  "jobs": [
+  {
+   "title": "Account Executive, Platforms (Grower)",
+   "company": "stripe",
+   "location": "US-SF, US-NY, US-Remote",
+   "type": "internship",
+   "source": "Stripe (Greenhouse)",
+   "url": "https://stripe.com/jobs/search?gh_jid=8274920",
+   "desc": "About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team The Platform Velocity Sales team works with B2B Software Platforms to help them facilitate payments for their customers using our Stripe Connect product. Software Platforms, also known as B2B Indirect, are software platform businesses who serve other businesses. You will work",
+   "posted": "2026-10-12T16:58:51-04:00",
+   "first_seen": "2026-10-12T21:48:22.853422+00:00"
+  },
+  {
+   "title": "People Operations Specialist, HR Compliance",
+   "company": "stripe",
+   "location": "Chicago, US-Remote",
+   "type": "internship",
+   "source": "Stripe (Greenhouse)",
+   "url": "https://stripe.com/jobs/search?gh_jid=8189015",
+   "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team One of the key drivers to our success is a committed and rigorous emphasis on our people. We believe that our competitive advantage lies in our talent and that we can build a sustainable advantage by attracting, enabling and cultivating the world’s most excepti",
+   "posted": "2026-10-12T11:02:51-04:00",
+   "first_seen": "2026-10-12T21:48:22.853422+00:00"
+  },
   {
    "title": "Postscript: Client Strategist",
    "company": "",
@@ -35,17 +57,6 @@
    "first_seen": "2026-10-09T07:38:55.864728+00:00"
   },
   {
-   "title": "Security Analyst ",
-   "company": "stripe",
-   "location": "US Remote",
-   "type": "internship",
-   "source": "Stripe (Greenhouse)",
-   "url": "https://stripe.com/jobs/search?gh_jid=8142302",
-   "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team The Security Incident Response team works to analyze, investigate, and respond to threats before they impact Stripe’s business or users. From external attacks to insider threats, our goal is to respond with speed and precision, remediate, and support the incident p",
-   "posted": "2026-10-08T10:22:01-04:00",
-   "first_seen": "2026-10-08T19:21:08.800944+00:00"
-  },
-  {
    "title": "Backend Engineer, Developer & End-user Experience Platform",
    "company": "stripe",
    "location": "Toronto Canada, San Francisco, Remote in US, Remote in Canada",
@@ -75,7 +86,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Kulim-Malaysia/Software-Application-Engineer--based-in-Kulim-_2641136",
    "desc": "",
-   "posted": "2026-10-07T07:38:04.532281+00:00",
+   "posted": "2026-10-07T21:48:05.510874+00:00",
    "first_seen": "2026-10-07T07:26:38.511297+00:00"
   },
   {
@@ -86,7 +97,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Aftermarket-Business-Data-Analyst_2638660",
    "desc": "",
-   "posted": "2026-10-06T07:38:05.692437+00:00",
+   "posted": "2026-10-06T21:48:06.290948+00:00",
    "first_seen": "2026-10-07T07:26:38.511297+00:00"
   },
   {
@@ -97,7 +108,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8203220",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The Fraud Architect team helps Stripe’s largest and most complex users manage fraud and abuse across the customer lifecycle. We combine deep fraud expertise, technical investigation, and product knowledge to help users understand emerging threats, optimize Radar, a",
-   "posted": "2026-10-07T19:02:27-04:00",
+   "posted": "2026-10-12T10:51:56-04:00",
    "first_seen": "2026-10-07T07:26:38.511297+00:00"
   },
   {
@@ -119,7 +130,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Phoenix-AZ/Buyer-Planner_2640247-1",
    "desc": "",
-   "posted": "2026-10-06T07:38:10.309248+00:00",
+   "posted": "2026-10-06T21:48:10.408019+00:00",
    "first_seen": "2026-10-06T18:58:30.486125+00:00"
   },
   {
@@ -163,7 +174,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Applications-Engineer_2640096",
    "desc": "",
-   "posted": "2026-10-05T07:38:04.532273+00:00",
+   "posted": "2026-10-05T21:48:05.510861+00:00",
    "first_seen": "2026-10-05T16:16:07.613574+00:00"
   },
   {
@@ -185,7 +196,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Specialist--Software-Technology_2639711-1",
    "desc": "",
-   "posted": "2026-09-29T07:38:01.669452+00:00",
+   "posted": "2026-09-29T21:48:02.969412+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -196,7 +207,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Software-Quality-Engineer_2641380-1",
    "desc": "",
-   "posted": "2026-10-09T07:38:01.669478+00:00",
+   "posted": "2026-10-09T21:48:02.969465+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -207,7 +218,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Specialist--Technology---Software_2641137",
    "desc": "",
-   "posted": "2026-10-05T07:38:02.771712+00:00",
+   "posted": "2026-10-05T21:48:03.660184+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -218,7 +229,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Engr--Software-QA-2_2640389",
    "desc": "",
-   "posted": "2026-09-29T07:38:03.555310+00:00",
+   "posted": "2026-09-29T21:48:04.364949+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -229,7 +240,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Specialist--Software-Technology-PLC-Programming_2640068",
    "desc": "",
-   "posted": "2026-09-29T07:38:03.555358+00:00",
+   "posted": "2026-09-29T21:48:04.365034+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -240,7 +251,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Software-Quality-Engineer---Automation---AI_2641371",
    "desc": "",
-   "posted": "2026-10-01T07:38:04.532219+00:00",
+   "posted": "2026-10-01T21:48:05.510785+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -251,7 +262,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Associate---Technical-Lead-PLC-Programming_2640061",
    "desc": "",
-   "posted": "2026-09-29T07:38:05.692429+00:00",
+   "posted": "2026-09-29T21:48:06.290935+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -262,7 +273,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Development-Engineer-Intern_2641521-1",
    "desc": "",
-   "posted": "2026-09-30T07:38:09.544763+00:00",
+   "posted": "2026-09-30T21:48:09.744637+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -273,7 +284,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/DevOps-Engineer_2640063",
    "desc": "",
-   "posted": "2026-09-29T07:38:16.071690+00:00",
+   "posted": "2026-09-29T21:48:19.092196+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -409,14 +420,14 @@
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
-   "title": "Credit Risk Analyst Commercial Underwriter, West Coast",
+   "title": "Credit Risk Analyst Commercial Underwriter",
    "company": "stripe",
    "location": "Chicago, US-Remote, Canada-Remote",
    "type": "internship",
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=7540441",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The Credit team protects Stripe by managing the end-to-end risk of our largest and most complex users. We leverage deep underwriting expertise and data-driven stress heuristics to make informed decisions at every stage of the user lifecycle—from onboarding to loss ",
-   "posted": "2026-10-07T19:02:27-04:00",
+   "posted": "2026-10-12T12:03:26-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -735,7 +746,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8227563",
    "desc": "Please note - for candidates living within 35 miles of a Stripe office (San Francisco, Seattle, New York, Chicago or Georgia) we operate a hybrid work policy where 50% office attendance per month is expected. For candidates more than 35 miles from an office, fully remote work can be approved. Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies, from the world’s largest enterprises to the most ambitious startups, use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work ",
-   "posted": "2026-10-07T19:02:27-04:00",
+   "posted": "2026-10-12T14:37:25-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
