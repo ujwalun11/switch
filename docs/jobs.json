@@ -1,27 +1,16 @@
 {
- "updated": "2026-10-13T07:57:49.969957+00:00",
+ "updated": "2026-10-13T19:55:40.754707+00:00",
  "jobs": [
   {
-   "title": "bondex: Fullstack Web3 Engineer (Solidity / Rust / Typescript)",
-   "company": "",
-   "location": "",
-   "type": "",
-   "source": "We Work Remotely - Programming",
-   "url": "https://weworkremotely.com/remote-jobs/bondex-fullstack-web3-engineer-solidity-rust-typescript",
-   "desc": "Headquarters: Remote - Americas, El Salvador URL: http://bondex.app We're recruiting a Web 3 Fullstack Developer (Solidity / Rust / Typescript) who is looking for a new challenge and ready to join an exciting new chapter to expand our clients product value proposition in the DeFi Web3 realm. The client is is revoluzionezing financial interoperability and the requirements for the role are: Minimum 4 years of professional experience in WEB development; preferably with Typescript Experience as Fullstack Web3 developer at least 2 years in the following programming languages: Web3: High level of Solidity (demonstrated experience) / Rust FRONTEND: Typescript / Javascript / React / NodeJS BACKEND: NodeJS; nice to have Golang & Python FLUENT proficient English , passable and/or with strong accent ",
-   "posted": "2026-09-29T19:13:52+00:00",
-   "first_seen": "2026-10-13T07:57:49.886048+00:00"
-  },
-  {
-   "title": "Account Executive, Platforms (Grower)",
+   "title": "Strategy and Analytics Business Partner",
    "company": "stripe",
-   "location": "US-SF, US-NY, US-Remote, Chicago",
+   "location": "Bangalore",
    "type": "internship",
    "source": "Stripe (Greenhouse)",
-   "url": "https://stripe.com/jobs/search?gh_jid=8274920",
-   "desc": "About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team The Platform Velocity Sales team works with B2B Software Platforms to help them facilitate payments for their customers using our Stripe Connect product. Software Platforms, also known as B2B Indirect, are software platform businesses who serve other businesses. You will work",
-   "posted": "2026-10-12T18:07:01-04:00",
-   "first_seen": "2026-10-12T21:48:22.853422+00:00"
+   "url": "https://stripe.com/jobs/search?gh_jid=8245230",
+   "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The Strategy & Analytics Internal Systems and SDC team aspires to supercharge the Internal Systems and SDC organization with analytics and insights. The Internal Systems and SDC org creates the engineering infrastructure and runs the internal operations that en",
+   "posted": "2026-10-13T06:57:47-04:00",
+   "first_seen": "2026-10-13T19:55:40.752783+00:00"
   },
   {
    "title": "People Operations Specialist, HR Compliance",
@@ -57,6 +46,17 @@
    "first_seen": "2026-10-09T07:38:55.864728+00:00"
   },
   {
+   "title": "Security Analyst ",
+   "company": "stripe",
+   "location": "US Remote",
+   "type": "internship",
+   "source": "Stripe (Greenhouse)",
+   "url": "https://stripe.com/jobs/search?gh_jid=8142302",
+   "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team The Security Incident Response team works to analyze, investigate, and respond to threats before they impact Stripe’s business or users. From external attacks to insider threats, our goal is to respond with speed and precision, remediate, and support the incident p",
+   "posted": "2026-10-13T10:46:07-04:00",
+   "first_seen": "2026-10-08T19:21:08.800944+00:00"
+  },
+  {
    "title": "Backend Engineer, Developer & End-user Experience Platform",
    "company": "stripe",
    "location": "Toronto Canada, San Francisco, Remote in US, Remote in Canada",
@@ -86,7 +86,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Kulim-Malaysia/Software-Application-Engineer--based-in-Kulim-_2641136",
    "desc": "",
-   "posted": "2026-10-07T07:57:35.011894+00:00",
+   "posted": "2026-10-07T19:55:24.494690+00:00",
    "first_seen": "2026-10-07T07:26:38.511297+00:00"
   },
   {
@@ -97,7 +97,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Aftermarket-Business-Data-Analyst_2638660",
    "desc": "",
-   "posted": "2026-10-06T07:57:35.807439+00:00",
+   "posted": "2026-10-06T19:55:25.471283+00:00",
    "first_seen": "2026-10-07T07:26:38.511297+00:00"
   },
   {
@@ -130,7 +130,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Phoenix-AZ/Buyer-Planner_2640247-1",
    "desc": "",
-   "posted": "2026-10-06T07:57:40.396661+00:00",
+   "posted": "2026-10-06T19:55:30.935468+00:00",
    "first_seen": "2026-10-06T18:58:30.486125+00:00"
   },
   {
@@ -174,7 +174,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Applications-Engineer_2640096",
    "desc": "",
-   "posted": "2026-10-05T07:57:35.011884+00:00",
+   "posted": "2026-10-05T19:55:24.494676+00:00",
    "first_seen": "2026-10-05T16:16:07.613574+00:00"
   },
   {
@@ -196,7 +196,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Software-Quality-Engineer_2641380-1",
    "desc": "",
-   "posted": "2026-10-09T07:57:32.705341+00:00",
+   "posted": "2026-10-09T19:55:21.950377+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -207,7 +207,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Specialist--Technology---Software_2641137",
    "desc": "",
-   "posted": "2026-10-05T07:57:33.547142+00:00",
+   "posted": "2026-10-05T19:55:22.987735+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -218,7 +218,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Software-Quality-Engineer---Automation---AI_2641371",
    "desc": "",
-   "posted": "2026-10-01T07:57:35.011824+00:00",
+   "posted": "2026-10-01T19:55:24.494592+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -229,7 +229,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Development-Engineer-Intern_2641521-1",
    "desc": "",
-   "posted": "2026-09-30T07:57:39.745003+00:00",
+   "posted": "2026-09-30T19:55:29.550970+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -262,17 +262,6 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=7993151",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. What you’ll do As an Account Executive, Existing Business, you’ll be managing existing relationships and identifying new opportunities to expand Stripe’s footprint within existing accounts. Specifically, we’re looking for someone who can execute on long-term sales strategies, eng",
-   "posted": "2026-10-07T19:02:27-04:00",
-   "first_seen": "2026-10-03T02:54:45.879352+00:00"
-  },
-  {
-   "title": "Account Executive, Enterprise (Grower) ",
-   "company": "stripe",
-   "location": "US-San Francisco, US-Seattle, US-West Coast (Remote) ",
-   "type": "internship",
-   "source": "Stripe (Greenhouse)",
-   "url": "https://stripe.com/jobs/search?gh_jid=8107136",
-   "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. What you’ll do As an Account Executive, Enterprise (Grower), you’ll be managing existing relationships and identifying new opportunities to expand Stripe’s footprint within existing accounts. Specifically, we’re looking for someone who can execute on long-term sales strategies, e",
    "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
