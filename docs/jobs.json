@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-14T18:06:44.108734+00:00",
+ "updated": "2026-10-15T06:05:38.498123+00:00",
  "jobs": [
+  {
+   "title": "Engr, Algorithm",
+   "company": "KLA",
+   "location": "",
+   "type": "",
+   "source": "KLA (Workday)",
+   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/KOR-Gyeonggi-do-Dongtan-Collaboration-Hub/Engr--Algorithm_2639671-5",
+   "desc": "",
+   "posted": "2026-10-15T06:05:22.009005+00:00",
+   "first_seen": "2026-10-15T06:05:38.495660+00:00"
+  },
+  {
+   "title": "Product Designer, Terminal",
+   "company": "stripe",
+   "location": "US Remote",
+   "type": "internship",
+   "source": "Stripe (Greenhouse)",
+   "url": "https://stripe.com/jobs/search?gh_jid=8282390",
+   "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team The Product Design team is made up of several groups that define, create, and deliver all user-facing aspects of Stripe’s brand and product. Product Designers are strategic partners to Engineering and Product Management within their product area. In close collabora",
+   "posted": "2026-10-14T15:54:05-04:00",
+   "first_seen": "2026-10-15T06:05:38.495660+00:00"
+  },
   {
    "title": "Solutions Architect, Metronome (Startups)",
    "company": "stripe",
@@ -108,18 +130,18 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Kulim-Malaysia/Software-Application-Engineer--based-in-Kulim-_2641136",
    "desc": "",
-   "posted": "2026-10-07T18:06:26.894365+00:00",
+   "posted": "2026-10-08T06:05:21.153952+00:00",
    "first_seen": "2026-10-07T07:26:38.511297+00:00"
   },
   {
-   "title": "Spares Planning Analyst",
+   "title": "Supply Chain Spares Planning Analyst",
    "company": "KLA",
    "location": "",
    "type": "",
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Aftermarket-Business-Data-Analyst_2638660",
    "desc": "",
-   "posted": "2026-10-06T18:06:27.839001+00:00",
+   "posted": "2026-10-15T06:05:22.009010+00:00",
    "first_seen": "2026-10-07T07:26:38.511297+00:00"
   },
   {
@@ -145,17 +167,6 @@
    "first_seen": "2026-10-07T07:26:38.511297+00:00"
   },
   {
-   "title": "Buyer/Planner",
-   "company": "KLA",
-   "location": "",
-   "type": "",
-   "source": "KLA (Workday)",
-   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Phoenix-AZ/Buyer-Planner_2640247-1",
-   "desc": "",
-   "posted": "2026-10-06T18:06:33.709396+00:00",
-   "first_seen": "2026-10-06T18:58:30.486125+00:00"
-  },
-  {
    "title": "Strategy and Analytics Business Partner",
    "company": "stripe",
    "location": "Bengaluru",
@@ -174,7 +185,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8163193",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team The recruiting team seeks to build the culture of Stripe by aligning the strongest global talent to our highest impact business needs. They focus on bringing Stripe’s operating principles to life in their recruiting processes, providing the highest-quality candidat",
-   "posted": "2026-10-07T19:02:27-04:00",
+   "posted": "2026-10-14T22:00:58-04:00",
    "first_seen": "2026-10-06T07:46:41.717848+00:00"
   },
   {
@@ -196,7 +207,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Applications-Engineer_2640096",
    "desc": "",
-   "posted": "2026-10-05T18:06:26.894351+00:00",
+   "posted": "2026-10-06T06:05:21.153939+00:00",
    "first_seen": "2026-10-05T16:16:07.613574+00:00"
   },
   {
@@ -218,7 +229,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Software-Quality-Engineer_2641380-1",
    "desc": "",
-   "posted": "2026-10-09T18:06:24.796094+00:00",
+   "posted": "2026-10-10T06:05:18.677368+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -229,7 +240,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Specialist--Technology---Software_2641137",
    "desc": "",
-   "posted": "2026-10-05T18:06:24.796101+00:00",
+   "posted": "2026-10-06T06:05:18.677375+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -240,7 +251,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Software-Quality-Engineer---Automation---AI_2641371",
    "desc": "",
-   "posted": "2026-10-01T18:06:26.174699+00:00",
+   "posted": "2026-10-02T06:05:20.413020+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -735,7 +746,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=7230921",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Risk Operations is responsible for managing the risk relationships spanning across global payment method, card, and financial partners. It's our mission to build operational controls to mitigate user and partner risk and enable strategic development opportunities. ",
-   "posted": "2026-10-07T19:02:27-04:00",
+   "posted": "2026-10-14T21:23:10-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -746,7 +757,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8175824",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Strategic Supportability Operations (SSO) sits within Risk Operations and User Policy Operations. Our team is focused on protecting and advancing Stripe's business, brand, and mission by deploying industry-leading supportability solutions that instill user and part",
-   "posted": "2026-10-07T19:02:27-04:00",
+   "posted": "2026-10-14T21:23:58-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
