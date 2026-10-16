@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-15T17:50:10.260898+00:00",
+ "updated": "2026-10-16T06:03:09.083975+00:00",
  "jobs": [
+  {
+   "title": "Software Engineer, Core Technology",
+   "company": "stripe",
+   "location": "Bangalore",
+   "type": "internship",
+   "source": "Stripe (Greenhouse)",
+   "url": "https://stripe.com/jobs/search?gh_jid=7618977",
+   "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Stripe Infrastructure is responsible for the reliability, scale, performance, and cost of Stripe's systems and the productivity and sentiment of Stripe's people. You may work on a wide variety of critical business areas including Core Infrastructure—We're the home ",
+   "posted": "2026-10-16T00:38:53-04:00",
+   "first_seen": "2026-10-16T06:03:09.078031+00:00"
+  },
   {
    "title": "Corporate Accounting Analyst (Bangalore)",
    "company": "stripe",
@@ -31,7 +42,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/KOR-Gyeonggi-do-Dongtan-Collaboration-Hub/Engr--Algorithm_2639671-5",
    "desc": "",
-   "posted": "2026-10-15T17:49:52.233611+00:00",
+   "posted": "2026-10-16T06:02:54.907117+00:00",
    "first_seen": "2026-10-15T06:05:38.495660+00:00"
   },
   {
@@ -44,17 +55,6 @@
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team The Product Design team is made up of several groups that define, create, and deliver all user-facing aspects of Stripe’s brand and product. Product Designers are strategic partners to Engineering and Product Management within their product area. In close collabora",
    "posted": "2026-10-14T15:54:05-04:00",
    "first_seen": "2026-10-15T06:05:38.495660+00:00"
-  },
-  {
-   "title": "Solutions Architect, Metronome (Startups)",
-   "company": "stripe",
-   "location": "SF, NYC, Chicago, US-Remote",
-   "type": "internship",
-   "source": "Stripe (Greenhouse)",
-   "url": "https://stripe.com/jobs/search?gh_jid=8072257",
-   "desc": "Who we are About Stripe / Metronome Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. Metronome is the leading usage-based billing platform built for modern software companies. With Metronome, now a Stripe product, companies can launch products faster, offer any pricing model, and streamline finance workflows without writing code. Our platform computes",
-   "posted": "2026-10-13T17:52:03-04:00",
-   "first_seen": "2026-10-14T06:24:12.792441+00:00"
   },
   {
    "title": "Specialist Solutions Architecture, Link",
@@ -152,7 +152,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Kulim-Malaysia/Software-Application-Engineer--based-in-Kulim-_2641136",
    "desc": "",
-   "posted": "2026-10-07T17:49:51.479693+00:00",
+   "posted": "2026-10-08T06:02:54.135458+00:00",
    "first_seen": "2026-10-07T07:26:38.511297+00:00"
   },
   {
@@ -163,7 +163,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Aftermarket-Business-Data-Analyst_2638660",
    "desc": "",
-   "posted": "2026-10-14T17:49:52.233617+00:00",
+   "posted": "2026-10-15T06:02:54.907123+00:00",
    "first_seen": "2026-10-07T07:26:38.511297+00:00"
   },
   {
@@ -196,7 +196,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Phoenix-AZ/Buyer-Planner_2640247-1",
    "desc": "",
-   "posted": "2026-10-06T17:49:56.966164+00:00",
+   "posted": "2026-10-07T06:02:59.674266+00:00",
    "first_seen": "2026-10-06T18:58:30.486125+00:00"
   },
   {
@@ -240,7 +240,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Applications-Engineer_2640096",
    "desc": "",
-   "posted": "2026-10-05T17:49:51.479682+00:00",
+   "posted": "2026-10-06T06:02:54.135445+00:00",
    "first_seen": "2026-10-05T16:16:07.613574+00:00"
   },
   {
@@ -255,17 +255,6 @@
    "first_seen": "2026-10-05T07:20:23.199717+00:00"
   },
   {
-   "title": "Software Quality Engineer",
-   "company": "KLA",
-   "location": "Chennai, India",
-   "type": "",
-   "source": "KLA (Workday)",
-   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Software-Quality-Engineer_2641380-1",
-   "desc": "",
-   "posted": "2026-10-09T17:49:49.264031+00:00",
-   "first_seen": "2026-10-03T02:54:45.879352+00:00"
-  },
-  {
    "title": "Specialist, Technology - Software",
    "company": "KLA",
    "location": "Chennai, India",
@@ -273,7 +262,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Specialist--Technology---Software_2641137",
    "desc": "",
-   "posted": "2026-10-05T17:49:49.264036+00:00",
+   "posted": "2026-10-06T06:02:52.223537+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -1043,17 +1032,6 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8188323",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Stripe’s Financial Crimes Compliance Risk Oversight (FinCRO) team is looking for a U.S. Regulatory Compliance Lead for our Banking-as-a-Service (BaaS) business. You’ll own second-line oversight of Stripe’s U.S. BaaS products and bank-fintech partnerships. The w",
-   "posted": "2026-10-07T19:02:27-04:00",
-   "first_seen": "2026-10-03T02:54:45.879352+00:00"
-  },
-  {
-   "title": "Voice Support Operations Associate ",
-   "company": "stripe",
-   "location": "Bengaluru",
-   "type": "internship",
-   "source": "Stripe (Greenhouse)",
-   "url": "https://stripe.com/jobs/search?gh_jid=8168793",
-   "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the Internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. We cultivate a culture of collaboration, inclusivity, and support where every team member's voice matters. Our commitment shines through as we handle over a million support cases each year, empowering our users not just to solve problems but to achieve their goals. About the team",
    "posted": "2026-10-07T19:02:27-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   }
