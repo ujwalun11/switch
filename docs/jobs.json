@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T06:12:06.695799+00:00",
+ "updated": "2026-10-23T12:43:46.261234+00:00",
  "jobs": [
   {
    "title": "Sales Development Representative, India",
@@ -53,7 +53,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/USA-NY-Remote-US03K/Engr--Software-1_2642693-1",
    "desc": "",
-   "posted": "2026-10-20T06:11:50.791555+00:00",
+   "posted": "2026-10-19T12:43:28.836744+00:00",
    "first_seen": "2026-10-20T06:15:22.397684+00:00"
   },
   {
@@ -130,7 +130,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/KOR-Gyeonggi-do-Dongtan-Collaboration-Hub/Engr--Algorithm_2639671-5",
    "desc": "",
-   "posted": "2026-10-16T06:11:52.860786+00:00",
+   "posted": "2026-10-15T12:43:30.904214+00:00",
    "first_seen": "2026-10-15T06:05:38.495660+00:00"
   },
   {
@@ -218,7 +218,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Aftermarket-Business-Data-Analyst_2638660",
    "desc": "",
-   "posted": "2026-10-15T06:11:52.860794+00:00",
+   "posted": "2026-10-14T12:43:30.904218+00:00",
    "first_seen": "2026-10-07T07:26:38.511297+00:00"
   },
   {
@@ -264,6 +264,28 @@
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team The Partner Marketing team extends Stripe’s marketing reach to customers and prospects by educating, engaging and enabling partners, globally, to build market awareness and generate demand for their Stripe solutions and services. We recruit prospective partners and",
    "posted": "2026-10-22T09:17:12-04:00",
    "first_seen": "2026-10-06T07:46:41.717848+00:00"
+  },
+  {
+   "title": "Specialist, Technology - Software",
+   "company": "KLA",
+   "location": "Chennai, India",
+   "type": "",
+   "source": "KLA (Workday)",
+   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Specialist--Technology---Software_2641137",
+   "desc": "",
+   "posted": "2026-10-23T12:43:28.236020+00:00",
+   "first_seen": "2026-10-03T02:54:45.879352+00:00"
+  },
+  {
+   "title": "RF & Plasma Technologist",
+   "company": "KLA",
+   "location": "",
+   "type": "",
+   "source": "KLA (Workday)",
+   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Newport-United-Kingdom/RF---Plasma-Technologist_2640129",
+   "desc": "",
+   "posted": "2026-10-23T12:43:36.133225+00:00",
+   "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
    "title": "Abuse Research Engineer",
@@ -790,7 +812,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8175820",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team As Stripe’s user base and global footprint grows dramatically, we have distinctly unique support problems resulting from both our type of scale and the type of businesses we partner with. The Stripe Delivery Center (SDC) strategy will provide operational levera",
-   "posted": "2026-10-21T14:53:01-04:00",
+   "posted": "2026-10-23T04:16:08-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -805,6 +827,17 @@
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
+   "title": "Software Engineer, Financial Business Insights",
+   "company": "stripe",
+   "location": "Bengaluru, India",
+   "type": "internship",
+   "source": "Stripe (Greenhouse)",
+   "url": "https://stripe.com/jobs/search?gh_jid=7543868",
+   "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Our mission is to enable effective financial decisions through reliable data, increased efficiency, and automation. We support Marketing, Sales, Seller, Accounting, Tax, Finance and Strategy (F&S), Finance Operations (FinOps), and Treasury functions across automati",
+   "posted": "2026-10-23T06:06:36-04:00",
+   "first_seen": "2026-10-03T02:54:45.879352+00:00"
+  },
+  {
    "title": "Software Engineer, Intern",
    "company": "stripe",
    "location": "Bengaluru",
@@ -812,17 +845,6 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8031833",
    "desc": "Who we are About Stripe Stripe is a technology company focused on improving the conditions for economic growth and prosperity. We build programmable financial infrastructure, rethinking from first principles how financial services should work, to make it easier and cheaper for any business to start and scale. More than 10 million businesses build on Stripe, spanning the economic frontier—from solo founders to established enterprises—united by a practical focus on growth. The most ambitious companies in the world use Stripe as core infrastructure to grow faster. They process trillions of dollars a year on Stripe, equivalent to around 1.6% of global GDP. While economic growth makes everyone better off, open markets also enable greater variety. When any business can easily serve a global cust",
-   "posted": "2026-10-21T14:53:01-04:00",
-   "first_seen": "2026-10-03T02:54:45.879352+00:00"
-  },
-  {
-   "title": "Software Engineer, Internal Systems",
-   "company": "stripe",
-   "location": "Bengaluru, India",
-   "type": "internship",
-   "source": "Stripe (Greenhouse)",
-   "url": "https://stripe.com/jobs/search?gh_jid=7543868",
-   "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Our mission is to enable effective financial decisions through reliable data, increased efficiency, and automation. We support Marketing, Sales, Seller, Accounting, Tax, Finance and Strategy (F&S), Finance Operations (FinOps), and Treasury functions across automati",
    "posted": "2026-10-21T14:53:01-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
