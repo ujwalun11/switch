@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T06:06:58.686382+00:00",
+ "updated": "2026-10-24T12:07:49.196717+00:00",
  "jobs": [
   {
    "title": "Sales Development Representative, India",
@@ -112,6 +112,17 @@
    "first_seen": "2026-10-15T12:45:37.163357+00:00"
   },
   {
+   "title": "Engr, Algorithm",
+   "company": "KLA",
+   "location": "",
+   "type": "",
+   "source": "KLA (Workday)",
+   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/KOR-Gyeonggi-do-Dongtan-Collaboration-Hub/Engr--Algorithm_2639671-5",
+   "desc": "",
+   "posted": "2026-10-15T12:07:36.261169+00:00",
+   "first_seen": "2026-10-15T06:05:38.495660+00:00"
+  },
+  {
    "title": "Product Designer, Terminal",
    "company": "stripe",
    "location": "US Remote",
@@ -189,6 +200,17 @@
    "first_seen": "2026-10-07T14:38:51.221129+00:00"
   },
   {
+   "title": "Supply Chain Spares Planning Analyst",
+   "company": "KLA",
+   "location": "",
+   "type": "",
+   "source": "KLA (Workday)",
+   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Aftermarket-Business-Data-Analyst_2638660",
+   "desc": "",
+   "posted": "2026-10-14T12:07:36.261177+00:00",
+   "first_seen": "2026-10-07T07:26:38.511297+00:00"
+  },
+  {
    "title": "Fraud Architect",
    "company": "stripe",
    "location": "SF-HQ, Chicago, New York, US-Remote",
@@ -231,6 +253,28 @@
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team The Partner Marketing team extends Stripe’s marketing reach to customers and prospects by educating, engaging and enabling partners, globally, to build market awareness and generate demand for their Stripe solutions and services. We recruit prospective partners and",
    "posted": "2026-10-22T09:17:12-04:00",
    "first_seen": "2026-10-06T07:46:41.717848+00:00"
+  },
+  {
+   "title": "Specialist, Technology - Software",
+   "company": "KLA",
+   "location": "Chennai, India",
+   "type": "",
+   "source": "KLA (Workday)",
+   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Specialist--Technology---Software_2641137",
+   "desc": "",
+   "posted": "2026-10-23T12:07:34.024266+00:00",
+   "first_seen": "2026-10-03T02:54:45.879352+00:00"
+  },
+  {
+   "title": "RF & Plasma Technologist",
+   "company": "KLA",
+   "location": "",
+   "type": "",
+   "source": "KLA (Workday)",
+   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Newport-United-Kingdom/RF---Plasma-Technologist_2640129",
+   "desc": "",
+   "posted": "2026-10-23T12:07:40.259924+00:00",
+   "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
    "title": "Abuse Research Engineer",
