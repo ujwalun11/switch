@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T17:55:21.119103+00:00",
+ "updated": "2026-10-24T06:06:58.686382+00:00",
  "jobs": [
   {
    "title": "Sales Development Representative, India",
@@ -44,17 +44,6 @@
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue and accelerate new business opportunities. Our mission is to increase the GDP of the internet and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the Organization Payments is at the core of Stripe’s mission to increase the GDP of the internet. We are expanding our payments footprint in India and we are looking for Backend Engineers to own the technical architecture behind our next generation of payment offerings in",
    "posted": "2026-10-21T14:53:01-04:00",
    "first_seen": "2026-10-20T12:50:01.912869+00:00"
-  },
-  {
-   "title": "Engr, Software 1",
-   "company": "KLA",
-   "location": "USA-NY-Remote-US03K",
-   "type": "",
-   "source": "KLA (Workday)",
-   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/USA-NY-Remote-US03K/Engr--Software-1_2642693-1",
-   "desc": "",
-   "posted": "2026-10-19T17:55:04.720323+00:00",
-   "first_seen": "2026-10-20T06:15:22.397684+00:00"
   },
   {
    "title": "Commercial Counsel, Sales",
@@ -121,17 +110,6 @@
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team At Stripe, our Bengaluru office is a vibrant hub at the forefront of our mission to reshape the financial landscape for businesses worldwide. Our team prioritizes collaboration, innovation, and excellence. As a member of the Bangalore team, you'll be part of a ",
    "posted": "2026-10-21T14:53:01-04:00",
    "first_seen": "2026-10-15T12:45:37.163357+00:00"
-  },
-  {
-   "title": "Engr, Algorithm",
-   "company": "KLA",
-   "location": "",
-   "type": "",
-   "source": "KLA (Workday)",
-   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/KOR-Gyeonggi-do-Dongtan-Collaboration-Hub/Engr--Algorithm_2639671-5",
-   "desc": "",
-   "posted": "2026-10-15T17:55:06.960396+00:00",
-   "first_seen": "2026-10-15T06:05:38.495660+00:00"
   },
   {
    "title": "Product Designer, Terminal",
@@ -211,17 +189,6 @@
    "first_seen": "2026-10-07T14:38:51.221129+00:00"
   },
   {
-   "title": "Supply Chain Spares Planning Analyst",
-   "company": "KLA",
-   "location": "",
-   "type": "",
-   "source": "KLA (Workday)",
-   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Aftermarket-Business-Data-Analyst_2638660",
-   "desc": "",
-   "posted": "2026-10-14T17:55:06.960405+00:00",
-   "first_seen": "2026-10-07T07:26:38.511297+00:00"
-  },
-  {
    "title": "Fraud Architect",
    "company": "stripe",
    "location": "SF-HQ, Chicago, New York, US-Remote",
@@ -264,28 +231,6 @@
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team The Partner Marketing team extends Stripe’s marketing reach to customers and prospects by educating, engaging and enabling partners, globally, to build market awareness and generate demand for their Stripe solutions and services. We recruit prospective partners and",
    "posted": "2026-10-22T09:17:12-04:00",
    "first_seen": "2026-10-06T07:46:41.717848+00:00"
-  },
-  {
-   "title": "Specialist, Technology - Software",
-   "company": "KLA",
-   "location": "Chennai, India",
-   "type": "",
-   "source": "KLA (Workday)",
-   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Specialist--Technology---Software_2641137",
-   "desc": "",
-   "posted": "2026-10-23T17:55:04.092832+00:00",
-   "first_seen": "2026-10-03T02:54:45.879352+00:00"
-  },
-  {
-   "title": "RF & Plasma Technologist",
-   "company": "KLA",
-   "location": "",
-   "type": "",
-   "source": "KLA (Workday)",
-   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Newport-United-Kingdom/RF---Plasma-Technologist_2640129",
-   "desc": "",
-   "posted": "2026-10-23T17:55:12.781205+00:00",
-   "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
    "title": "Abuse Research Engineer",
@@ -856,7 +801,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8127182",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The Revenue and Financial Automation (RFA) organization at Stripe is building a modern, revenue-focused, financial management platform for fast-growing, digital-native companies. Hundreds of thousands of businesses of all sizes and types use Stripe Billing to colle",
-   "posted": "2026-10-22T09:17:07-04:00",
+   "posted": "2026-10-23T17:28:17-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
