@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-26T06:36:59.703475+00:00",
+ "updated": "2026-10-26T14:27:33.166652+00:00",
  "jobs": [
+  {
+   "title": "Processing Cost Analyst",
+   "company": "stripe",
+   "location": "IN-Bengaluru",
+   "type": "internship",
+   "source": "Stripe (Greenhouse)",
+   "url": "https://stripe.com/jobs/search?gh_jid=8324207",
+   "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The Product Accounting team at Stripe supports products across Stripe by providing guidance on accounting implications and enabling teams to make informed strategic decisions. The team records business transactions accurately and on time in the balance sheet and in",
+   "posted": "2026-10-26T09:24:50-04:00",
+   "first_seen": "2026-10-26T14:27:33.162426+00:00"
+  },
   {
    "title": "Forward Deployed AI Accelerator, Marketing",
    "company": "stripe",
@@ -130,7 +141,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/KOR-Gyeonggi-do-Dongtan-Collaboration-Hub/Engr--Algorithm_2639671-5",
    "desc": "",
-   "posted": "2026-10-16T06:36:46.432418+00:00",
+   "posted": "2026-10-15T14:27:06.840003+00:00",
    "first_seen": "2026-10-15T06:05:38.495660+00:00"
   },
   {
@@ -218,7 +229,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Aftermarket-Business-Data-Analyst_2638660",
    "desc": "",
-   "posted": "2026-10-15T06:36:46.432422+00:00",
+   "posted": "2026-10-14T14:27:06.840009+00:00",
    "first_seen": "2026-10-07T07:26:38.511297+00:00"
   },
   {
@@ -273,7 +284,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Specialist--Technology---Software_2641137",
    "desc": "",
-   "posted": "2026-10-24T06:36:43.787539+00:00",
+   "posted": "2026-10-23T14:27:03.299538+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -284,7 +295,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Newport-United-Kingdom/RF---Plasma-Technologist_2640129",
    "desc": "",
-   "posted": "2026-10-24T06:36:51.399640+00:00",
+   "posted": "2026-10-23T14:27:12.372205+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -1011,17 +1022,6 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8226211",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team To further this important mission, we are building the foundation for a long-term talent bench at Stripe. We believe every campus hire can build products with meaningful impact at Stripe, and provide a far-reaching impact for anyone trying to grow their business on",
    "posted": "2026-10-22T09:17:11-04:00",
-   "first_seen": "2026-10-03T02:54:45.879352+00:00"
-  },
-  {
-   "title": "U.S. Banking Regulatory Compliance Lead",
-   "company": "stripe",
-   "location": "US-Remote",
-   "type": "internship",
-   "source": "Stripe (Greenhouse)",
-   "url": "https://stripe.com/jobs/search?gh_jid=8188323",
-   "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Stripe’s Financial Crimes Compliance Risk Oversight (FinCRO) team is looking for a U.S. Regulatory Compliance Lead for our Banking-as-a-Service (BaaS) business. You’ll own second-line oversight of Stripe’s U.S. BaaS products and bank-fintech partnerships. The w",
-   "posted": "2026-10-22T09:17:09-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   }
  ]
