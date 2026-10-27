@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T14:27:33.166652+00:00",
+ "updated": "2026-10-27T06:32:31.205451+00:00",
  "jobs": [
   {
    "title": "Processing Cost Analyst",
@@ -22,17 +22,6 @@
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies — from the world's largest enterprises to the most ambitious startups — use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The Stripe Marketing organization is undergoing a fundamental transformation in how it works. We're building a team of Forward Deployed AI Accelerators (FDAs) embedded directly with marketing cohorts to make AI the default mode for all work — not an occasional ",
    "posted": "2026-10-24T15:25:15-04:00",
    "first_seen": "2026-10-25T06:27:36.617468+00:00"
-  },
-  {
-   "title": "Sales Development Representative, India",
-   "company": "stripe",
-   "location": "Bengaluru",
-   "type": "internship",
-   "source": "Stripe (Greenhouse)",
-   "url": "https://stripe.com/jobs/search?gh_jid=8303082",
-   "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team As a Sales Development Representative (SDR) at Stripe, you'll support some of the region's largest and most innovative companies across various industries. You'll help power Stripe's growth engine by partnering closely with the Demand Generation and Account Exe",
-   "posted": "2026-10-22T21:41:31-04:00",
-   "first_seen": "2026-10-23T06:12:06.693421+00:00"
   },
   {
    "title": "Account Executive - Nordics (Hunter)",
@@ -141,7 +130,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/KOR-Gyeonggi-do-Dongtan-Collaboration-Hub/Engr--Algorithm_2639671-5",
    "desc": "",
-   "posted": "2026-10-15T14:27:06.840003+00:00",
+   "posted": "2026-10-16T06:32:16.376488+00:00",
    "first_seen": "2026-10-15T06:05:38.495660+00:00"
   },
   {
@@ -200,6 +189,17 @@
    "first_seen": "2026-10-09T07:38:55.864728+00:00"
   },
   {
+   "title": "Security Analyst ",
+   "company": "stripe",
+   "location": "US Remote",
+   "type": "internship",
+   "source": "Stripe (Greenhouse)",
+   "url": "https://stripe.com/jobs/search?gh_jid=8142302",
+   "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team The Security Incident Response team works to analyze, investigate, and respond to threats before they impact Stripe’s business or users. From external attacks to insider threats, our goal is to respond with speed and precision, remediate, and support the incident p",
+   "posted": "2026-10-26T12:25:02-04:00",
+   "first_seen": "2026-10-08T19:21:08.800944+00:00"
+  },
+  {
    "title": "Backend Engineer, Developer & End-user Experience Platform",
    "company": "stripe",
    "location": "Toronto Canada, San Francisco, Remote in US, Remote in Canada",
@@ -229,7 +229,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Aftermarket-Business-Data-Analyst_2638660",
    "desc": "",
-   "posted": "2026-10-14T14:27:06.840009+00:00",
+   "posted": "2026-10-15T06:32:16.376494+00:00",
    "first_seen": "2026-10-07T07:26:38.511297+00:00"
   },
   {
@@ -262,7 +262,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8163193",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team The recruiting team seeks to build the culture of Stripe by aligning the strongest global talent to our highest impact business needs. They focus on bringing Stripe’s operating principles to life in their recruiting processes, providing the highest-quality candidat",
-   "posted": "2026-10-22T15:48:39-04:00",
+   "posted": "2026-10-26T11:05:09-04:00",
    "first_seen": "2026-10-06T07:46:41.717848+00:00"
   },
   {
@@ -284,7 +284,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Specialist--Technology---Software_2641137",
    "desc": "",
-   "posted": "2026-10-23T14:27:03.299538+00:00",
+   "posted": "2026-10-24T06:32:13.346477+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -295,7 +295,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Newport-United-Kingdom/RF---Plasma-Technologist_2640129",
    "desc": "",
-   "posted": "2026-10-23T14:27:12.372205+00:00",
+   "posted": "2026-10-24T06:32:22.149920+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -548,7 +548,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8016504",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team The recruiting team seeks to build the culture of Stripe by aligning the strongest global talent to our highest impact business needs. They focus on bringing Stripe’s operating principles to life in their recruiting processes, providing the highest-quality candidat",
-   "posted": "2026-10-22T09:17:05-04:00",
+   "posted": "2026-10-26T11:03:07-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -695,17 +695,6 @@
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
-   "title": "Operations Insights, Tax",
-   "company": "stripe",
-   "location": "US Remote",
-   "type": "internship",
-   "source": "Stripe (Greenhouse)",
-   "url": "https://stripe.com/jobs/search?gh_jid=7997542",
-   "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team The Operations Performance & Enablement Team supports the TaxJar product and broader Tax Operations teams by using data to drive better decisions and continuous improvement. We make performance visible, decisions deliberate, and improvement repeatable—acting as a f",
-   "posted": "2026-10-22T09:17:05-04:00",
-   "first_seen": "2026-10-03T02:54:45.879352+00:00"
-  },
-  {
    "title": "Partner Solutions Engineer, Ecosystem",
    "company": "stripe",
    "location": "US-NYC; US-SF; US-Chicago; US-Atlanta; US-Seattle; US-Remote",
@@ -757,7 +746,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=7230921",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Risk Operations is responsible for managing the risk relationships spanning across global payment method, card, and financial partners. It's our mission to build operational controls to mitigate user and partner risk and enable strategic development opportunities. ",
-   "posted": "2026-10-22T09:17:03-04:00",
+   "posted": "2026-10-26T11:04:00-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -768,7 +757,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8175824",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Strategic Supportability Operations (SSO) sits within Risk Operations and User Policy Operations. Our team is focused on protecting and advancing Stripe's business, brand, and mission by deploying industry-leading supportability solutions that instill user and part",
-   "posted": "2026-10-22T09:17:09-04:00",
+   "posted": "2026-10-26T11:04:20-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -780,17 +769,6 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8225841",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies, from the world’s largest enterprises to the most ambitious AI startups, use Stripe to accept payments, grow their revenue, and create new business opportunities. Our mission is to increase the GDP of the internet, and we have a significant amount of work ahead. That means you’ll have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. What you’ll do India is producing a new generation of ambitious, AI-native companies built for global markets, while global businesses increasingly look to India for growth. As the Sales Leader, India, you will shape Stripe’s role in this transformation, helping businesses e",
    "posted": "2026-10-21T14:53:01-04:00",
-   "first_seen": "2026-10-03T02:54:45.879352+00:00"
-  },
-  {
-   "title": "Scale Partner Marketing Lead",
-   "company": "stripe",
-   "location": "San Francisco, Seattle, New York, Chicago, Atlanta, Remote in the US",
-   "type": "internship",
-   "source": "Stripe (Greenhouse)",
-   "url": "https://stripe.com/jobs/search?gh_jid=8175627",
-   "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The Partner Marketing team extends Stripe’s marketing reach to customers and prospects by educating, engaging, and enabling partners, globally, to build market awareness and generate demand for their Stripe solutions and services. We recruit prospective partner",
-   "posted": "2026-10-22T09:17:09-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -955,17 +933,6 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8079783",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team Strategy & Analytics (S&A) maximizes and accelerates Operations' ability to make Stripe work for our users. We aspire to be the COOs for Stripe Ops, working cross-functionally with global teams to help run the day-to-day business and articulate and achieve the long",
-   "posted": "2026-10-22T09:17:06-04:00",
-   "first_seen": "2026-10-03T02:54:45.879352+00:00"
-  },
-  {
-   "title": "Strategy and Operations Lead, Deal Pricing",
-   "company": "stripe",
-   "location": "New York City, Washington DC, Remote",
-   "type": "internship",
-   "source": "Stripe (Greenhouse)",
-   "url": "https://stripe.com/jobs/search?gh_jid=8044391",
-   "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team Deal Pricing is a dedicated global function that provides deal pricing expertise, financial insights, and deal support for negotiated users to Stripe's global Go-to-Market teams. We work to ensure deals create economic value for Stripe by establishing the deal comm",
    "posted": "2026-10-22T09:17:06-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
