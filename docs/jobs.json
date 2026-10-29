@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-29T07:23:37.993892+00:00",
+ "updated": "2026-10-29T14:33:30.395043+00:00",
  "jobs": [
+  {
+   "title": "Associate / Specialist, Software Technology",
+   "company": "KLA",
+   "location": "Chennai, India",
+   "type": "",
+   "source": "KLA (Workday)",
+   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Associate---Technical-Lead--Software-Development_2637266-1",
+   "desc": "",
+   "posted": "2026-10-29T14:33:15.649908+00:00",
+   "first_seen": "2026-10-29T14:33:30.393053+00:00"
+  },
   {
    "title": "Customer Success Enablement Business Partner",
    "company": "stripe",
@@ -64,7 +75,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Software-Quality-Engineer_2641383",
    "desc": "",
-   "posted": "2026-10-27T07:23:19.688979+00:00",
+   "posted": "2026-10-27T14:33:14.936161+00:00",
    "first_seen": "2026-10-27T13:27:23.071841+00:00"
   },
   {
@@ -75,7 +86,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Software-Engineer--Full-Stack-_2636690",
    "desc": "",
-   "posted": "2026-10-27T07:23:20.311662+00:00",
+   "posted": "2026-10-27T14:33:15.649904+00:00",
    "first_seen": "2026-10-27T13:27:23.071841+00:00"
   },
   {
@@ -176,6 +187,17 @@
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The Finance Operations (FinOps) team provides and enhances core business services that are the backbone of Stripe. FinOps uses data and operational excellence to deliver technology solutions, payroll services, operational excellence, and monetization services to St",
    "posted": "2026-10-21T14:53:01-04:00",
    "first_seen": "2026-10-16T12:37:09.506159+00:00"
+  },
+  {
+   "title": "Software Engineer, Core Technology",
+   "company": "stripe",
+   "location": "Bangalore",
+   "type": "internship",
+   "source": "Stripe (Greenhouse)",
+   "url": "https://stripe.com/jobs/search?gh_jid=7618977",
+   "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Stripe Infrastructure is responsible for the reliability, scale, performance, and cost of Stripe's systems and the productivity and sentiment of Stripe's people. You may work on a wide variety of critical business areas including Core Infrastructure—We're the home ",
+   "posted": "2026-10-29T08:44:50-04:00",
+   "first_seen": "2026-10-16T06:03:09.078031+00:00"
   },
   {
    "title": "Corporate Accounting Analyst (Bangalore)",
@@ -339,7 +361,18 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Specialist--Technology---Software_2641137",
    "desc": "",
-   "posted": "2026-10-23T07:23:19.688973+00:00",
+   "posted": "2026-10-23T14:33:14.936157+00:00",
+   "first_seen": "2026-10-03T02:54:45.879352+00:00"
+  },
+  {
+   "title": "Lead Analyst, Algorithm Development Engineering",
+   "company": "KLA",
+   "location": "Chennai, India",
+   "type": "",
+   "source": "KLA (Workday)",
+   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Lead-Analyst--Algorithm-Development-Engineering_2639853",
+   "desc": "",
+   "posted": "2026-10-29T14:33:17.569485+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -350,7 +383,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Newport-United-Kingdom/RF---Plasma-Technologist_2640129",
    "desc": "",
-   "posted": "2026-10-23T07:23:27.012982+00:00",
+   "posted": "2026-10-23T14:33:22.027451+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -394,7 +427,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8119697",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team The CEE team is a highly consultative sales team that is responsible for the growth of Stripe’s largest customers within the region. We work with some of the most ambitious and fastest-growing companies in the world, including Booksy, Maczfit, and ElevenLabs - Stri",
-   "posted": "2026-10-22T09:16:14-04:00",
+   "posted": "2026-10-29T10:29:12-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -750,6 +783,17 @@
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
+   "title": "Operations Team Lead (Night Shift) ",
+   "company": "stripe",
+   "location": "Bengaluru",
+   "type": "internship",
+   "source": "Stripe (Greenhouse)",
+   "url": "https://stripe.com/jobs/search?gh_jid=8175820",
+   "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team As Stripe’s user base and global footprint grows dramatically, we have distinctly unique support problems resulting from both our type of scale and the type of businesses we partner with. The Stripe Delivery Center (SDC) strategy will provide operational levera",
+   "posted": "2026-10-29T05:27:09-04:00",
+   "first_seen": "2026-10-03T02:54:45.879352+00:00"
+  },
+  {
    "title": "Partner Solutions Engineer, Ecosystem",
    "company": "stripe",
    "location": "US-NYC; US-SF; US-Chicago; US-Atlanta; US-Seattle; US-Remote",
@@ -824,17 +868,6 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8174965",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team Abuse Control Engineering (ACE) is Stripe’s rapid-response technical defense and control incubator. When urgent abuse vectors emerge, ACE bridges the gap using real attacker telemetry to prototype, test, and deploy software safeguards before vulnerabilities can be ",
    "posted": "2026-10-22T09:17:09-04:00",
-   "first_seen": "2026-10-03T02:54:45.879352+00:00"
-  },
-  {
-   "title": "Seller Systems Team Lead (Night Shift)",
-   "company": "stripe",
-   "location": "Bengaluru",
-   "type": "internship",
-   "source": "Stripe (Greenhouse)",
-   "url": "https://stripe.com/jobs/search?gh_jid=8175820",
-   "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team As Stripe’s user base and global footprint grows dramatically, we have distinctly unique support problems resulting from both our type of scale and the type of businesses we partner with. The Stripe Delivery Center (SDC) strategy will provide operational levera",
-   "posted": "2026-10-23T04:16:08-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
