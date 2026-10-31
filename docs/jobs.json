@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T07:13:53.121912+00:00",
+ "updated": "2026-10-31T13:46:16.220169+00:00",
  "jobs": [
   {
    "title": "Administrative Business Partner, Coverage",
@@ -68,6 +68,17 @@
    "first_seen": "2026-10-30T07:26:09.660353+00:00"
   },
   {
+   "title": "Associate / Specialist, Software Technology",
+   "company": "KLA",
+   "location": "Chennai, India",
+   "type": "",
+   "source": "KLA (Workday)",
+   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Associate---Technical-Lead--Software-Development_2637266-1",
+   "desc": "",
+   "posted": "2026-10-29T13:45:51.462809+00:00",
+   "first_seen": "2026-10-29T14:33:30.393053+00:00"
+  },
+  {
    "title": "Customer Success Enablement Business Partner",
    "company": "stripe",
    "location": "San Francisco; Seattle; Remote",
@@ -121,6 +132,28 @@
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Brand Studio team works on a variety of brand-centric projects for Stripe, from our brand standards to campaigns, events, IRL experiences, packaging, digital products, and even printed publications. The brand designers on this team are multidisciplinary in natu",
    "posted": "2026-10-29T10:42:09-04:00",
    "first_seen": "2026-10-27T18:50:40.992870+00:00"
+  },
+  {
+   "title": "Software Quality Engineer",
+   "company": "KLA",
+   "location": "Chennai, India",
+   "type": "",
+   "source": "KLA (Workday)",
+   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Software-Quality-Engineer_2641383",
+   "desc": "",
+   "posted": "2026-10-27T13:45:50.792183+00:00",
+   "first_seen": "2026-10-27T13:27:23.071841+00:00"
+  },
+  {
+   "title": "Software Engineer (Full Stack)",
+   "company": "KLA",
+   "location": "Chennai, India",
+   "type": "",
+   "source": "KLA (Workday)",
+   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Software-Engineer--Full-Stack-_2636690",
+   "desc": "",
+   "posted": "2026-10-27T13:45:51.462803+00:00",
+   "first_seen": "2026-10-27T13:27:23.071841+00:00"
   },
   {
    "title": "Processing Cost Analyst",
@@ -396,6 +429,39 @@
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The recruiting team seeks to build the culture of Stripe by aligning the strongest global talent to our highest impact business needs. They focus on bringing Stripe’s operating principles to life in their recruiting processes, providing the highest-quality cand",
    "posted": "2026-10-29T13:11:20-04:00",
    "first_seen": "2026-10-05T07:20:23.199717+00:00"
+  },
+  {
+   "title": "Specialist, Technology - Software",
+   "company": "KLA",
+   "location": "Chennai, India",
+   "type": "",
+   "source": "KLA (Workday)",
+   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Specialist--Technology---Software_2641137",
+   "desc": "",
+   "posted": "2026-10-23T13:45:50.792177+00:00",
+   "first_seen": "2026-10-03T02:54:45.879352+00:00"
+  },
+  {
+   "title": "Lead Analyst, Algorithm Development Engineering",
+   "company": "KLA",
+   "location": "Chennai, India",
+   "type": "",
+   "source": "KLA (Workday)",
+   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Lead-Analyst--Algorithm-Development-Engineering_2639853",
+   "desc": "",
+   "posted": "2026-10-29T13:45:53.597112+00:00",
+   "first_seen": "2026-10-03T02:54:45.879352+00:00"
+  },
+  {
+   "title": "RF & Plasma Technologist",
+   "company": "KLA",
+   "location": "",
+   "type": "",
+   "source": "KLA (Workday)",
+   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Newport-United-Kingdom/RF---Plasma-Technologist_2640129",
+   "desc": "",
+   "posted": "2026-10-23T13:45:58.337859+00:00",
+   "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
    "title": "Abuse Research Engineer",
