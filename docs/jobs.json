@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-30T14:25:26.019101+00:00",
+ "updated": "2026-10-31T07:13:53.121912+00:00",
  "jobs": [
+  {
+   "title": "Administrative Business Partner, Coverage",
+   "company": "stripe",
+   "location": "Remote - US",
+   "type": "internship",
+   "source": "Stripe (Greenhouse)",
+   "url": "https://stripe.com/jobs/search?gh_jid=8328118",
+   "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The administrative business partner (ABP) team works with Stripe's executive leaders to strategically manage their day-to-day administrative and operational needs, while also contributing significantly to projects and initiatives that help drive the company's s",
+   "posted": "2026-10-30T13:30:15-04:00",
+   "first_seen": "2026-10-31T07:13:53.120130+00:00"
+  },
+  {
+   "title": "Commercial Counsel, Bridge",
+   "company": "stripe",
+   "location": "US-Remote",
+   "type": "internship",
+   "source": "Stripe (Greenhouse)",
+   "url": "https://stripe.com/jobs/search?gh_jid=8335758",
+   "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Stripe is a global technology company that builds infrastructure for online commerce with a mission to increase the GDP of the internet. Through Bridge, Stripe is building stablecoin infrastructure that helps businesses move, store, and use money globally. This",
+   "posted": "2026-10-30T12:53:11-04:00",
+   "first_seen": "2026-10-31T07:13:53.120130+00:00"
+  },
   {
    "title": "Startup Products Strategy & Operations, Insights & Analytics",
    "company": "stripe",
@@ -13,14 +35,14 @@
    "first_seen": "2026-10-30T14:25:26.017494+00:00"
   },
   {
-   "title": "Startup Products Strategy & Operations, Product Strategy Internal",
+   "title": "Startup Products Strategy & Operations, Product Strategy",
    "company": "stripe",
    "location": "US-Remote",
    "type": "internship",
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8248415",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The Startup Products team builds Stripe Atlas and other products that help founders start and run a company, from anywhere in the world. We believe that startups are one of the most effective ways to solve the world's problems, and we want to give founders a ru",
-   "posted": "2026-10-30T09:13:31-04:00",
+   "posted": "2026-10-30T11:30:16-04:00",
    "first_seen": "2026-10-30T14:25:26.017494+00:00"
   },
   {
@@ -44,17 +66,6 @@
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team The Global Sales Enablement team helps Stripe’s sales teams develop the knowledge and skills to support our users effectively. We build onboarding and ongoing learning experiences covering Stripe’s products, sales processes and tools, sales skills, and business kno",
    "posted": "2026-10-29T14:50:03-04:00",
    "first_seen": "2026-10-30T07:26:09.660353+00:00"
-  },
-  {
-   "title": "Associate / Specialist, Software Technology",
-   "company": "KLA",
-   "location": "Chennai, India",
-   "type": "",
-   "source": "KLA (Workday)",
-   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Associate---Technical-Lead--Software-Development_2637266-1",
-   "desc": "",
-   "posted": "2026-10-29T14:25:10.735571+00:00",
-   "first_seen": "2026-10-29T14:33:30.393053+00:00"
   },
   {
    "title": "Customer Success Enablement Business Partner",
@@ -110,28 +121,6 @@
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Brand Studio team works on a variety of brand-centric projects for Stripe, from our brand standards to campaigns, events, IRL experiences, packaging, digital products, and even printed publications. The brand designers on this team are multidisciplinary in natu",
    "posted": "2026-10-29T10:42:09-04:00",
    "first_seen": "2026-10-27T18:50:40.992870+00:00"
-  },
-  {
-   "title": "Software Quality Engineer",
-   "company": "KLA",
-   "location": "Chennai, India",
-   "type": "",
-   "source": "KLA (Workday)",
-   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Software-Quality-Engineer_2641383",
-   "desc": "",
-   "posted": "2026-10-27T14:25:10.116065+00:00",
-   "first_seen": "2026-10-27T13:27:23.071841+00:00"
-  },
-  {
-   "title": "Software Engineer (Full Stack)",
-   "company": "KLA",
-   "location": "Chennai, India",
-   "type": "",
-   "source": "KLA (Workday)",
-   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Software-Engineer--Full-Stack-_2636690",
-   "desc": "",
-   "posted": "2026-10-27T14:25:10.735567+00:00",
-   "first_seen": "2026-10-27T13:27:23.071841+00:00"
   },
   {
    "title": "Processing Cost Analyst",
@@ -284,7 +273,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8279202",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Specialist Solutions Architects (SSA) are domain experts aligned to specific Stripe solutions and customer buying centers. We have in-depth knowledge of specific solution offerings and a deep understanding of customer challenges. We align with specialist produc",
-   "posted": "2026-10-29T10:42:09-04:00",
+   "posted": "2026-10-30T12:10:46-04:00",
    "first_seen": "2026-10-14T06:24:12.792441+00:00"
   },
   {
@@ -407,39 +396,6 @@
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The recruiting team seeks to build the culture of Stripe by aligning the strongest global talent to our highest impact business needs. They focus on bringing Stripe’s operating principles to life in their recruiting processes, providing the highest-quality cand",
    "posted": "2026-10-29T13:11:20-04:00",
    "first_seen": "2026-10-05T07:20:23.199717+00:00"
-  },
-  {
-   "title": "Specialist, Technology - Software",
-   "company": "KLA",
-   "location": "Chennai, India",
-   "type": "",
-   "source": "KLA (Workday)",
-   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Specialist--Technology---Software_2641137",
-   "desc": "",
-   "posted": "2026-10-23T14:25:10.116060+00:00",
-   "first_seen": "2026-10-03T02:54:45.879352+00:00"
-  },
-  {
-   "title": "Lead Analyst, Algorithm Development Engineering",
-   "company": "KLA",
-   "location": "Chennai, India",
-   "type": "",
-   "source": "KLA (Workday)",
-   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Lead-Analyst--Algorithm-Development-Engineering_2639853",
-   "desc": "",
-   "posted": "2026-10-29T14:25:12.761841+00:00",
-   "first_seen": "2026-10-03T02:54:45.879352+00:00"
-  },
-  {
-   "title": "RF & Plasma Technologist",
-   "company": "KLA",
-   "location": "",
-   "type": "",
-   "source": "KLA (Workday)",
-   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Newport-United-Kingdom/RF---Plasma-Technologist_2640129",
-   "desc": "",
-   "posted": "2026-10-23T14:25:17.999552+00:00",
-   "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
    "title": "Abuse Research Engineer",
@@ -746,17 +702,6 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8080454",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Metronome is a usage-based billing platform and a Stripe product. It helps modern software companies launch products faster, offer flexible pricing models, and streamline finance workflows. The Metronome Integration Engineering team sits at the intersection of ",
-   "posted": "2026-10-29T10:42:09-04:00",
-   "first_seen": "2026-10-03T02:54:45.879352+00:00"
-  },
-  {
-   "title": "Investigator ",
-   "company": "stripe",
-   "location": "US Remote ",
-   "type": "internship",
-   "source": "Stripe (Greenhouse)",
-   "url": "https://stripe.com/jobs/search?gh_jid=8172491",
-   "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team Abuse Operations is the front-line incident response and remediation function handling active product abuse and fraud impacting Stripe and its merchants. This multi-disciplinary group, spanning Incident Managers, Investigators, Forward Deployed Security Engineers, ",
    "posted": "2026-10-29T10:42:09-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
