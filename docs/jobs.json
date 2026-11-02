@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-02T07:53:26.445187+00:00",
+ "updated": "2026-11-02T22:23:56.146480+00:00",
  "jobs": [
+  {
+   "title": "Software Engineer (AI/ML) Intern",
+   "company": "KLA",
+   "location": "",
+   "type": "internship",
+   "source": "KLA (Workday)",
+   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Austin-TX/Software-Engineer--AI-ML--Intern_2642125-1",
+   "desc": "",
+   "posted": "2026-11-02T22:23:40.716570+00:00",
+   "first_seen": "2026-11-02T22:23:56.143879+00:00"
+  },
+  {
+   "title": "Account Executive, Enterprise - Grower",
+   "company": "stripe",
+   "location": "US-New York, US-Chicago, US-Remote",
+   "type": "internship",
+   "source": "Stripe (Greenhouse)",
+   "url": "https://stripe.com/jobs/search?gh_jid=7997555",
+   "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. What you’ll do As an Account Executive, Existing Business, you’ll be managing existing relationships and identifying new opportunities to expand Stripe’s footprint within existing accounts. Specifically, we’re looking for someone who can execute on long-term sales strategies, eng",
+   "posted": "2026-11-02T16:42:57-05:00",
+   "first_seen": "2026-11-02T22:23:56.143879+00:00"
+  },
+  {
+   "title": "Americas Field Marketing, Financial Services",
+   "company": "stripe",
+   "location": "US Remote",
+   "type": "internship",
+   "source": "Stripe (Greenhouse)",
+   "url": "https://stripe.com/jobs/search?gh_jid=8332880",
+   "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team We're seeking an experienced, creative, and results-oriented marketer who knows the Financial Services ecosystem to drive world-class field marketing for Financial Services in the Americas region. This field marketer will be responsible for defining, executing,",
+   "posted": "2026-11-02T15:24:38-05:00",
+   "first_seen": "2026-11-02T22:23:56.143879+00:00"
+  },
   {
    "title": "Administrative Business Partner, Coverage",
    "company": "stripe",
@@ -75,7 +108,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Associate---Technical-Lead--Software-Development_2637266-1",
    "desc": "",
-   "posted": "2026-10-30T07:53:10.456989+00:00",
+   "posted": "2026-10-29T22:23:39.313048+00:00",
    "first_seen": "2026-10-29T14:33:30.393053+00:00"
   },
   {
@@ -141,7 +174,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Software-Quality-Engineer_2641383",
    "desc": "",
-   "posted": "2026-10-28T07:53:09.815734+00:00",
+   "posted": "2026-10-27T22:23:38.423240+00:00",
    "first_seen": "2026-10-27T13:27:23.071841+00:00"
   },
   {
@@ -152,7 +185,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Software-Engineer--Full-Stack-_2636690",
    "desc": "",
-   "posted": "2026-10-28T07:53:10.456984+00:00",
+   "posted": "2026-10-27T22:23:39.313013+00:00",
    "first_seen": "2026-10-27T13:27:23.071841+00:00"
   },
   {
@@ -209,28 +242,6 @@
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue and accelerate new business opportunities. Our mission is to increase the GDP of the internet and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the Organization Payments is at the core of Stripe’s mission to increase the GDP of the internet. We are expanding our payments footprint in India and we are looking for Backend Engineers to own the technical architecture behind our next generation of payment offerings in",
    "posted": "2026-10-29T10:42:09-04:00",
    "first_seen": "2026-10-20T12:50:01.912869+00:00"
-  },
-  {
-   "title": "Commercial Counsel, Sales",
-   "company": "stripe",
-   "location": "Remote, US",
-   "type": "internship",
-   "source": "Stripe (Greenhouse)",
-   "url": "https://stripe.com/jobs/search?gh_jid=8286649",
-   "desc": "About Stripe Stripe is a technology company that builds financial infrastructure for the internet. Millions of businesses, from startups to global enterprises, use Stripe to accept payments, grow their revenue, and expand into new markets. Our mission is to increase the GDP of the internet. Our products support a broad range of business needs, from payments and software services to emerging areas such as stablecoins and agentic commerce. About the role We’re looking for an experienced transactional lawyer to join our Commercial Legal team supporting Stripe’s business in the Americas. You’ll lead complex commercial negotiations, advise on new products and international expansion, and help build the legal processes and tools that support Stripe’s growth. You’ll work closely with Sales, Produ",
-   "posted": "2026-10-29T10:42:09-04:00",
-   "first_seen": "2026-10-20T06:15:22.397684+00:00"
-  },
-  {
-   "title": "Account Executive, Product - Link: Bank Payments & Open Banking",
-   "company": "stripe",
-   "location": "SF, SEA, CHI, NYC, remote",
-   "type": "internship",
-   "source": "Stripe (Greenhouse)",
-   "url": "https://stripe.com/jobs/search?gh_jid=8289847",
-   "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Product Sales is a team of deep functional and technical specialists who both lead and advise on deals for the most strategically important products in Stripe’s portfolio. Stripe is expanding its Link Product Sales team, and this role is focused exclusively on ",
-   "posted": "2026-10-29T10:42:09-04:00",
-   "first_seen": "2026-10-17T05:49:29.151624+00:00"
   },
   {
    "title": "Solutions Engineer, AI Build Team ",
@@ -405,7 +416,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8163193",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team The recruiting team seeks to build the culture of Stripe by aligning the strongest global talent to our highest impact business needs. They focus on bringing Stripe’s operating principles to life in their recruiting processes, providing the highest-quality candidat",
-   "posted": "2026-10-29T18:03:22-04:00",
+   "posted": "2026-11-02T10:55:43-05:00",
    "first_seen": "2026-10-06T07:46:41.717848+00:00"
   },
   {
@@ -438,7 +449,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Specialist--Technology---Software_2641137",
    "desc": "",
-   "posted": "2026-10-24T07:53:09.815730+00:00",
+   "posted": "2026-10-23T22:23:38.423235+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -449,7 +460,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Lead-Analyst--Algorithm-Development-Engineering_2639853",
    "desc": "",
-   "posted": "2026-10-30T07:53:12.420276+00:00",
+   "posted": "2026-10-29T22:23:41.544183+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -460,7 +471,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Newport-United-Kingdom/RF---Plasma-Technologist_2640129",
    "desc": "",
-   "posted": "2026-10-24T07:53:17.385740+00:00",
+   "posted": "2026-10-23T22:23:46.646221+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -691,7 +702,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8016504",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team The recruiting team seeks to build the culture of Stripe by aligning the strongest global talent to our highest impact business needs. They focus on bringing Stripe’s operating principles to life in their recruiting processes, providing the highest-quality candidat",
-   "posted": "2026-10-29T18:02:54-04:00",
+   "posted": "2026-11-02T10:51:10-05:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -713,17 +724,6 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=7950828",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the Team Stripe's Finance Operations (FinOps) organisation delivers elegant financial services that are efficient, precise, and resilient—yielding a consistent, delightful experience grounded in controllership. Our service pillars span Accounts Payable, Accounts Receivable,",
-   "posted": "2026-10-29T10:42:09-04:00",
-   "first_seen": "2026-10-03T02:54:45.879352+00:00"
-  },
-  {
-   "title": "Head of Market Intelligence, Product Marketing",
-   "company": "stripe",
-   "location": "SF, Seattle, NYC, Chicago, Remote in the US",
-   "type": "internship",
-   "source": "Stripe (Greenhouse)",
-   "url": "https://stripe.com/jobs/search?gh_jid=8036235",
-   "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Our Product Marketing team generates customer insights that shape Stripe's product strategy and leads go-to-market across our suite of products. It's a highly cross-functional role—we partner closely with Product, Engineering, Sales, Partnerships, and Demand Genera",
    "posted": "2026-10-29T10:42:09-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
@@ -768,7 +768,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8080454",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Metronome is a usage-based billing platform and a Stripe product. It helps modern software companies launch products faster, offer flexible pricing models, and streamline finance workflows. The Metronome Integration Engineering team sits at the intersection of ",
-   "posted": "2026-10-29T10:42:09-04:00",
+   "posted": "2026-11-02T11:57:24-05:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -779,17 +779,6 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=6209187",
    "desc": "Legal Entity Controller (Bangalore) About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. To further this important mission, we're building our Accounting team in Bangalore Finance and are looking for someone to help us scale for the future in a fast-paced environment. Responsibilities End-to-end controllership for assigned legal entity(ies), ",
-   "posted": "2026-10-29T10:42:09-04:00",
-   "first_seen": "2026-10-03T02:54:45.879352+00:00"
-  },
-  {
-   "title": "Legal Operations Team Lead",
-   "company": "stripe",
-   "location": "Bengaluru",
-   "type": "internship",
-   "source": "Stripe (Greenhouse)",
-   "url": "https://stripe.com/jobs/search?gh_jid=8230294",
-   "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team As Stripe’s user base and global footprint grows dramatically, we have distinctly unique support problems resulting from both our type of scale and the type of businesses we partner with. The Stripe Delivery Center (SDC) strategy will provide operational levera",
    "posted": "2026-10-29T10:42:09-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
