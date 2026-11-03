@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-03T08:11:29.162436+00:00",
+ "updated": "2026-11-03T20:11:52.530010+00:00",
  "jobs": [
+  {
+   "title": "Solutions Consultant, Commercial",
+   "company": "ramp",
+   "location": "Remote (US)",
+   "type": "full-time",
+   "source": "Ramp (Ashby)",
+   "url": "https://jobs.ashbyhq.com/ramp/220e674a-fc70-439f-bacf-687553ca59c9",
+   "desc": "ABOUT RAMP\n\nRamp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $275B in annualized spend flows in and out of 85,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books.\n\nThe problems are high-stakes, data-dense, and unforgiving.\n\nWe hire people with high agency and high urgency. We look for slope over intercept. We care less about where you trained and more about what you’ve built. At Ramp, everyone is a builder who owns problems end to end and makes consequential decisions that shape the outcome.\n\nThe median Ramp customer saves 7.5% and grows revenue 16% in their first year – far in excess of businesses operating without Ramp. We believe every ambitious com",
+   "posted": "2026-11-03T17:04:10.236000+00:00",
+   "first_seen": "2026-11-03T20:11:52.527373+00:00"
+  },
   {
    "title": "Associate Technical Lead, Software Development",
    "company": "KLA",
@@ -9,7 +20,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Associate-Technical-Lead--Software-Development_2643177",
    "desc": "",
-   "posted": "2026-11-03T08:11:15.804759+00:00",
+   "posted": "2026-11-03T20:11:35.335292+00:00",
    "first_seen": "2026-11-03T08:11:29.160212+00:00"
   },
   {
@@ -20,7 +31,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Hsinchu-Taiwan/Sr-Learning---Development-Program-Specialist_2640227",
    "desc": "",
-   "posted": "2026-11-03T08:11:22.619955+00:00",
+   "posted": "2026-11-03T20:11:44.864376+00:00",
    "first_seen": "2026-11-03T08:11:29.160212+00:00"
   },
   {
@@ -31,7 +42,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Austin-TX/Software-Engineer--AI-ML--Intern_2642125-1",
    "desc": "",
-   "posted": "2026-11-02T08:11:15.804772+00:00",
+   "posted": "2026-11-02T20:11:35.335296+00:00",
    "first_seen": "2026-11-02T22:23:56.143879+00:00"
   },
   {
@@ -43,17 +54,6 @@
    "url": "https://stripe.com/jobs/search?gh_jid=7997555",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. What you’ll do As an Account Executive, Existing Business, you’ll be managing existing relationships and identifying new opportunities to expand Stripe’s footprint within existing accounts. Specifically, we’re looking for someone who can execute on long-term sales strategies, eng",
    "posted": "2026-11-02T16:42:57-05:00",
-   "first_seen": "2026-11-02T22:23:56.143879+00:00"
-  },
-  {
-   "title": "Americas Field Marketing, Financial Services",
-   "company": "stripe",
-   "location": "US Remote",
-   "type": "internship",
-   "source": "Stripe (Greenhouse)",
-   "url": "https://stripe.com/jobs/search?gh_jid=8332880",
-   "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team We're seeking an experienced, creative, and results-oriented marketer who knows the Financial Services ecosystem to drive world-class field marketing for Financial Services in the Americas region. This field marketer will be responsible for defining, executing,",
-   "posted": "2026-11-02T15:24:38-05:00",
    "first_seen": "2026-11-02T22:23:56.143879+00:00"
   },
   {
@@ -130,7 +130,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Associate---Technical-Lead--Software-Development_2637266-1",
    "desc": "",
-   "posted": "2026-10-29T08:11:14.471555+00:00",
+   "posted": "2026-10-29T20:11:34.514368+00:00",
    "first_seen": "2026-10-29T14:33:30.393053+00:00"
   },
   {
@@ -196,7 +196,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Software-Quality-Engineer_2641383",
    "desc": "",
-   "posted": "2026-10-27T08:11:13.817253+00:00",
+   "posted": "2026-10-27T20:11:33.552959+00:00",
    "first_seen": "2026-10-27T13:27:23.071841+00:00"
   },
   {
@@ -207,7 +207,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Software-Engineer--Full-Stack-_2636690",
    "desc": "",
-   "posted": "2026-10-27T08:11:14.471551+00:00",
+   "posted": "2026-10-27T20:11:34.514364+00:00",
    "first_seen": "2026-10-27T13:27:23.071841+00:00"
   },
   {
@@ -229,7 +229,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=7747640",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies — from the world's largest enterprises to the most ambitious startups — use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The Stripe Marketing organization is undergoing a fundamental transformation in how it works. We're building a team of Forward Deployed AI Accelerators (FDAs) embedded directly with marketing cohorts to make AI the default mode for all work — not an occasional ",
-   "posted": "2026-10-29T10:42:09-04:00",
+   "posted": "2026-11-03T10:58:52-05:00",
    "first_seen": "2026-10-25T06:27:36.617468+00:00"
   },
   {
@@ -264,6 +264,17 @@
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue and accelerate new business opportunities. Our mission is to increase the GDP of the internet and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the Organization Payments is at the core of Stripe’s mission to increase the GDP of the internet. We are expanding our payments footprint in India and we are looking for Backend Engineers to own the technical architecture behind our next generation of payment offerings in",
    "posted": "2026-10-29T10:42:09-04:00",
    "first_seen": "2026-10-20T12:50:01.912869+00:00"
+  },
+  {
+   "title": "Commercial Counsel, Sales",
+   "company": "stripe",
+   "location": "Remote, US",
+   "type": "internship",
+   "source": "Stripe (Greenhouse)",
+   "url": "https://stripe.com/jobs/search?gh_jid=8286649",
+   "desc": "About Stripe Stripe is a technology company that builds financial infrastructure for the internet. Millions of businesses, from startups to global enterprises, use Stripe to accept payments, grow their revenue, and expand into new markets. Our mission is to increase the GDP of the internet. Our products support a broad range of business needs, from payments and software services to emerging areas such as stablecoins and agentic commerce. About the role We’re looking for an experienced transactional lawyer to join our Commercial Legal team supporting Stripe’s business in the Americas. You’ll lead complex commercial negotiations, advise on new products and international expansion, and help build the legal processes and tools that support Stripe’s growth. You’ll work closely with Sales, Produ",
+   "posted": "2026-11-03T13:21:05-05:00",
+   "first_seen": "2026-10-20T06:15:22.397684+00:00"
   },
   {
    "title": "Solutions Engineer, AI Build Team ",
@@ -471,7 +482,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Specialist--Technology---Software_2641137",
    "desc": "",
-   "posted": "2026-10-23T08:11:13.817249+00:00",
+   "posted": "2026-10-23T20:11:33.552954+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -482,7 +493,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Lead-Analyst--Algorithm-Development-Engineering_2639853",
    "desc": "",
-   "posted": "2026-10-29T08:11:16.542810+00:00",
+   "posted": "2026-10-29T20:11:37.284578+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -493,7 +504,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Newport-United-Kingdom/RF---Plasma-Technologist_2640129",
    "desc": "",
-   "posted": "2026-10-23T08:11:21.460491+00:00",
+   "posted": "2026-10-23T20:11:43.404753+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -669,7 +680,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8055930",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies — from the world's largest enterprises to the most ambitious startups — use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The Stripe Marketing organization is undergoing a fundamental transformation in how it works. We're building a team of Forward Deployed AI Accelerators (FDAs) embedded directly with marketing cohorts to make AI the default mode for all work — not an occasional ",
-   "posted": "2026-10-29T10:42:09-04:00",
+   "posted": "2026-11-03T10:58:24-05:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -1054,17 +1065,6 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8155580",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Stripe is looking for a senior product strategist-operator to join the Strategic Business Performance (SBP) team. SBP is the \"connective tissue\" of Stripe. You will have a front-row seat to how the company operates and a direct hand in ensuring we hit our most ",
-   "posted": "2026-10-29T10:42:09-04:00",
-   "first_seen": "2026-10-03T02:54:45.879352+00:00"
-  },
-  {
-   "title": "Strategy & Analytics Business Partner Analyst",
-   "company": "stripe",
-   "location": "US-SF, US-Seattle, US-NYC, US-Chicago, US-Georgia or US-Remote",
-   "type": "internship",
-   "source": "Stripe (Greenhouse)",
-   "url": "https://stripe.com/jobs/search?gh_jid=8079783",
-   "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team Strategy & Analytics (S&A) maximizes and accelerates Operations' ability to make Stripe work for our users. We aspire to be the COOs for Stripe Ops, working cross-functionally with global teams to help run the day-to-day business and articulate and achieve the long",
    "posted": "2026-10-29T10:42:09-04:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
