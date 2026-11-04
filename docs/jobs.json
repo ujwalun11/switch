@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-03T20:11:52.530010+00:00",
+ "updated": "2026-11-04T07:42:55.773057+00:00",
  "jobs": [
+  {
+   "title": "Technical Consultant, Commercial",
+   "company": "ramp",
+   "location": "Remote (US)",
+   "type": "full-time",
+   "source": "Ramp (Ashby)",
+   "url": "https://jobs.ashbyhq.com/ramp/100c09be-f179-406f-893e-8a212f32c642",
+   "desc": "ABOUT RAMP\n\nRamp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $275B in annualized spend flows in and out of 85,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books.\n\nThe problems are high-stakes, data-dense, and unforgiving.\n\nWe hire people with high agency and high urgency. We look for slope over intercept. We care less about where you trained and more about what you’ve built. At Ramp, everyone is a builder who owns problems end to end and makes consequential decisions that shape the outcome.\n\nThe median Ramp customer saves 7.5% and grows revenue 16% in their first year – far in excess of businesses operating without Ramp. We believe every ambitious com",
+   "posted": "2026-11-03T22:33:38.811000+00:00",
+   "first_seen": "2026-11-04T07:42:55.768089+00:00"
+  },
   {
    "title": "Solutions Consultant, Commercial",
    "company": "ramp",
@@ -20,7 +31,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Associate-Technical-Lead--Software-Development_2643177",
    "desc": "",
-   "posted": "2026-11-03T20:11:35.335292+00:00",
+   "posted": "2026-11-04T07:42:39.317546+00:00",
    "first_seen": "2026-11-03T08:11:29.160212+00:00"
   },
   {
@@ -31,7 +42,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Hsinchu-Taiwan/Sr-Learning---Development-Program-Specialist_2640227",
    "desc": "",
-   "posted": "2026-11-03T20:11:44.864376+00:00",
+   "posted": "2026-11-04T07:42:47.934209+00:00",
    "first_seen": "2026-11-03T08:11:29.160212+00:00"
   },
   {
@@ -42,7 +53,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Austin-TX/Software-Engineer--AI-ML--Intern_2642125-1",
    "desc": "",
-   "posted": "2026-11-02T20:11:35.335296+00:00",
+   "posted": "2026-11-03T07:42:39.317550+00:00",
    "first_seen": "2026-11-02T22:23:56.143879+00:00"
   },
   {
@@ -130,7 +141,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Associate---Technical-Lead--Software-Development_2637266-1",
    "desc": "",
-   "posted": "2026-10-29T20:11:34.514368+00:00",
+   "posted": "2026-10-30T07:42:38.392956+00:00",
    "first_seen": "2026-10-29T14:33:30.393053+00:00"
   },
   {
@@ -196,7 +207,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Software-Quality-Engineer_2641383",
    "desc": "",
-   "posted": "2026-10-27T20:11:33.552959+00:00",
+   "posted": "2026-10-28T07:42:37.767911+00:00",
    "first_seen": "2026-10-27T13:27:23.071841+00:00"
   },
   {
@@ -207,7 +218,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Software-Engineer--Full-Stack-_2636690",
    "desc": "",
-   "posted": "2026-10-27T20:11:34.514364+00:00",
+   "posted": "2026-10-28T07:42:38.392951+00:00",
    "first_seen": "2026-10-27T13:27:23.071841+00:00"
   },
   {
@@ -365,6 +376,17 @@
    "first_seen": "2026-10-13T19:55:40.752783+00:00"
   },
   {
+   "title": "People Operations Specialist, HR Compliance",
+   "company": "stripe",
+   "location": "Chicago, US-Remote",
+   "type": "internship",
+   "source": "Stripe (Greenhouse)",
+   "url": "https://stripe.com/jobs/search?gh_jid=8189015",
+   "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team One of the key drivers to our success is a committed and rigorous emphasis on our people. We believe that our competitive advantage lies in our talent and that we can build a sustainable advantage by attracting, enabling and cultivating the world’s most excepti",
+   "posted": "2026-11-03T17:27:50-05:00",
+   "first_seen": "2026-10-12T21:48:22.853422+00:00"
+  },
+  {
    "title": "AR Analyst",
    "company": "stripe",
    "location": "Bangalore",
@@ -405,7 +427,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=7292520",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. About the team Stripe's Developer & End-user Experience Platform (DEEP) organization empowers all of Stripe's products with a shared product platform that helps with rapidly delivering high-quality, cross-product experiences across our UI and API surfaces. It focuses on providing",
-   "posted": "2026-10-29T10:42:09-04:00",
+   "posted": "2026-11-03T14:33:24-05:00",
    "first_seen": "2026-10-08T07:42:54.874155+00:00"
   },
   {
@@ -482,7 +504,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Specialist--Technology---Software_2641137",
    "desc": "",
-   "posted": "2026-10-23T20:11:33.552954+00:00",
+   "posted": "2026-10-24T07:42:37.767906+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -493,7 +515,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Lead-Analyst--Algorithm-Development-Engineering_2639853",
    "desc": "",
-   "posted": "2026-10-29T20:11:37.284578+00:00",
+   "posted": "2026-10-30T07:42:40.892431+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -504,7 +526,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Newport-United-Kingdom/RF---Plasma-Technologist_2640129",
    "desc": "",
-   "posted": "2026-10-23T20:11:43.404753+00:00",
+   "posted": "2026-10-24T07:42:46.544417+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -592,7 +614,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=6042172",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Stripe Infrastructure is responsible for the reliability, scale, performance, and cost of Stripe's systems and the productivity and sentiment of Stripe's people. You may work on a wide variety of critical business areas including: Core Infrastructure—We're the home",
-   "posted": "2026-10-29T10:42:09-04:00",
+   "posted": "2026-11-03T14:33:24-05:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -812,7 +834,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=6209187",
    "desc": "Legal Entity Controller (Bangalore) About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. To further this important mission, we're building our Accounting team in Bangalore Finance and are looking for someone to help us scale for the future in a fast-paced environment. Responsibilities End-to-end controllership for assigned legal entity(ies), ",
-   "posted": "2026-10-29T10:42:09-04:00",
+   "posted": "2026-11-03T14:33:24-05:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -889,7 +911,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=7370967",
    "desc": "Who we are About Stripe At Stripe, you have an unprecedented opportunity to put the global economy within everyone’s reach. Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. About the team Specialist Solutions Architects (SSA) are domain experts aligned to specific Stripe solutions and customer buying centers. We have in-depth knowledge of specific solution offerings and a deep understanding of customer challenges. We align with specialist product sellers on deals, advise the broader pre-sales team o",
-   "posted": "2026-10-29T10:42:09-04:00",
+   "posted": "2026-11-03T14:33:24-05:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -911,7 +933,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=7230921",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Risk Operations is responsible for managing the risk relationships spanning across global payment method, card, and financial partners. It's our mission to build operational controls to mitigate user and partner risk and enable strategic development opportunities. ",
-   "posted": "2026-10-29T10:42:09-04:00",
+   "posted": "2026-11-03T14:33:24-05:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
@@ -1087,7 +1109,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=7377101",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Stripe is beloved by developers for the simplicity of our APIs, the thoroughness of our documentation, and our focus on developer experience. The Technical Solutions Engineering (TSE) team is the glue that supports our developer-users and champions developer ex",
-   "posted": "2026-10-29T10:42:09-04:00",
+   "posted": "2026-11-03T14:33:24-05:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
