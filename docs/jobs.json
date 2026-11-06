@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-05T20:45:23.036079+00:00",
+ "updated": "2026-11-06T08:10:11.393863+00:00",
  "jobs": [
+  {
+   "title": "AMER Data Analyst - Sales Strategy and Operations",
+   "company": "stripe",
+   "location": "Chicago, US Remote, SF, NYC, Seattle",
+   "type": "internship",
+   "source": "Stripe (Greenhouse)",
+   "url": "https://stripe.com/jobs/search?gh_jid=8354566",
+   "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team The Sales Strategy & Operations team is responsible for the overall productivity and effectiveness of the sales organization, partnering closely with the sales team and other teams across Stripe to drive highly strategic initiatives. This team is integral in th",
+   "posted": "2026-11-05T19:45:33-05:00",
+   "first_seen": "2026-11-06T08:10:11.391902+00:00"
+  },
   {
    "title": "Sales Administrator",
    "company": "KLA",
@@ -9,7 +20,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chandler-AZ/Sales-Administrator_2642333-1",
    "desc": "",
-   "posted": "2026-11-05T20:44:54.781305+00:00",
+   "posted": "2026-11-05T08:10:02.966448+00:00",
    "first_seen": "2026-11-05T20:45:23.034780+00:00"
   },
   {
@@ -42,7 +53,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Software-Engineer_2643047",
    "desc": "",
-   "posted": "2026-11-05T20:44:46.690789+00:00",
+   "posted": "2026-11-05T08:09:53.710737+00:00",
    "first_seen": "2026-11-05T08:05:25.746365+00:00"
   },
   {
@@ -64,7 +75,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Senior-Research-Specialist--AI---ML_2643052",
    "desc": "",
-   "posted": "2026-11-04T20:44:58.867838+00:00",
+   "posted": "2026-11-04T08:10:07.757228+00:00",
    "first_seen": "2026-11-04T20:29:09.893777+00:00"
   },
   {
@@ -119,7 +130,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Associate-Technical-Lead--Software-Development_2643177",
    "desc": "",
-   "posted": "2026-11-03T20:44:48.512577+00:00",
+   "posted": "2026-11-03T08:09:55.766604+00:00",
    "first_seen": "2026-11-03T08:11:29.160212+00:00"
   },
   {
@@ -130,7 +141,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Hsinchu-Taiwan/Sr-Learning---Development-Program-Specialist_2640227",
    "desc": "",
-   "posted": "2026-11-03T20:44:55.991954+00:00",
+   "posted": "2026-11-03T08:10:04.509529+00:00",
    "first_seen": "2026-11-03T08:11:29.160212+00:00"
   },
   {
@@ -141,7 +152,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Austin-TX/Software-Engineer--AI-ML--Intern_2642125-1",
    "desc": "",
-   "posted": "2026-11-02T20:44:48.512583+00:00",
+   "posted": "2026-11-02T08:09:55.766608+00:00",
    "first_seen": "2026-11-02T22:23:56.143879+00:00"
   },
   {
@@ -174,7 +185,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8335758",
    "desc": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. About the team Stripe is a global technology company that builds infrastructure for online commerce with a mission to increase the GDP of the internet. Through Bridge, Stripe is building stablecoin infrastructure that helps businesses move, store, and use money globally. This",
-   "posted": "2026-10-30T12:53:11-04:00",
+   "posted": "2026-11-05T18:00:15-05:00",
    "first_seen": "2026-10-31T07:13:53.120130+00:00"
   },
   {
@@ -229,7 +240,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Associate---Technical-Lead--Software-Development_2637266-1",
    "desc": "",
-   "posted": "2026-10-29T20:44:47.860900+00:00",
+   "posted": "2026-10-29T08:09:55.050394+00:00",
    "first_seen": "2026-10-29T14:33:30.393053+00:00"
   },
   {
@@ -284,7 +295,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Software-Engineer--Full-Stack-_2636690",
    "desc": "",
-   "posted": "2026-10-27T20:44:47.860893+00:00",
+   "posted": "2026-10-27T08:09:55.050391+00:00",
    "first_seen": "2026-10-27T13:27:23.071841+00:00"
   },
   {
@@ -350,7 +361,7 @@
    "source": "Stripe (Greenhouse)",
    "url": "https://stripe.com/jobs/search?gh_jid=8286649",
    "desc": "About Stripe Stripe is a technology company that builds financial infrastructure for the internet. Millions of businesses, from startups to global enterprises, use Stripe to accept payments, grow their revenue, and expand into new markets. Our mission is to increase the GDP of the internet. Our products support a broad range of business needs, from payments and software services to emerging areas such as stablecoins and agentic commerce. About the role We’re looking for an experienced transactional lawyer to join our Commercial Legal team supporting Stripe’s business in the Americas. You’ll lead complex commercial negotiations, advise on new products and international expansion, and help build the legal processes and tools that support Stripe’s growth. You’ll work closely with Sales, Produ",
-   "posted": "2026-11-03T13:21:05-05:00",
+   "posted": "2026-11-05T17:59:32-05:00",
    "first_seen": "2026-10-20T06:15:22.397684+00:00"
   },
   {
@@ -563,17 +574,6 @@
    "first_seen": "2026-10-05T07:20:23.199717+00:00"
   },
   {
-   "title": "Specialist, Technology - Software",
-   "company": "KLA",
-   "location": "Chennai, India",
-   "type": "",
-   "source": "KLA (Workday)",
-   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Specialist--Technology---Software_2641137",
-   "desc": "",
-   "posted": "2026-10-23T20:44:47.207838+00:00",
-   "first_seen": "2026-10-03T02:54:45.879352+00:00"
-  },
-  {
    "title": "Lead Analyst, Algorithm Development Engineering",
    "company": "KLA",
    "location": "Chennai, India",
@@ -581,18 +581,7 @@
    "source": "KLA (Workday)",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/Lead-Analyst--Algorithm-Development-Engineering_2639853",
    "desc": "",
-   "posted": "2026-10-29T20:44:49.926086+00:00",
-   "first_seen": "2026-10-03T02:54:45.879352+00:00"
-  },
-  {
-   "title": "RF & Plasma Technologist",
-   "company": "KLA",
-   "location": "",
-   "type": "",
-   "source": "KLA (Workday)",
-   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Newport-United-Kingdom/RF---Plasma-Technologist_2640129",
-   "desc": "",
-   "posted": "2026-10-23T20:44:54.781316+00:00",
+   "posted": "2026-10-29T08:09:57.326480+00:00",
    "first_seen": "2026-10-03T02:54:45.879352+00:00"
   },
   {
